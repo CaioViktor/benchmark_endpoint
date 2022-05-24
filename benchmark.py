@@ -1,6 +1,7 @@
 from SPARQLWrapper import SPARQLWrapper, JSON
 import time
 import pandas as pd
+import datetime
 
 ENDPOINT = "http://10.33.96.18:7200/repositories/GRAFO_SEFAZMA_PRODUCAO"
 sparql = SPARQLWrapper(ENDPOINT)
@@ -8,6 +9,7 @@ sparql = SPARQLWrapper(ENDPOINT)
 def execute(query,sparql=sparql):
     start_time = time.time()
     try:
+        print(f"Executando consulta em {datetime.datetime.now()}:\n\n{query}\n\n-------------------------------------------------")
         sparql.setQuery(query)
         sparql.setReturnFormat(JSON)
         results = sparql.query().convert()
@@ -27,7 +29,7 @@ select * where {
 	?s ?p ?o .
 } limit 100 
 """
-print(f"Executando consulta:\n\n{query}\n\n-------------------------------------------------")
+
 t, r = execute(query)
 
 pd_0 = pd.DataFrame([{'tempo':t,'triplas':size(r)}])
@@ -75,7 +77,7 @@ for classe in classes:
                     ?p ?o.
             }} LIMIT 100
     """
-    print(f"Executando consulta:\n\n{query}\n\n-------------------------------------------------")
+    
     t, r = execute(query)
     if size(r) > 0:
         recurso_classe.append([classe['label'],r['results']['bindings'][0]['s']['value']])
@@ -94,7 +96,7 @@ for recurso in recurso_classe:
                 <{recurso[1]}> ?p ?o.
             }} LIMIT 100
     """
-    print(f"Executando consulta:\n\n{query}\n\n-------------------------------------------------")
+    
     t, r = execute(query)
     results.append({'tempo':t,'classe':recurso[0],'triplas':size(r)})
     
@@ -111,7 +113,7 @@ for recurso in recurso_classe:
                 <{recurso[1]}> rdfs:label ?o.
             }} LIMIT 100
     """
-    print(f"Executando consulta:\n\n{query}\n\n-------------------------------------------------")
+    
     t, r = execute(query)
     results.append({'tempo':t,'classe':recurso[0],'triplas':size(r)})
     
@@ -153,7 +155,7 @@ for classe in classes:
                     <{p_url}> ?o.
             }} LIMIT 100
         """
-        print(f"Executando consulta:\n\n{query}\n\n-------------------------------------------------")
+        
         t, r = execute(query)
         results.append({'tempo':t,'classe':classe['label'],'propriedade':result['l']['value'],'triplas':size(r)})
     
@@ -178,7 +180,7 @@ for recurso in recurso_classe:
                 }}
             }}
     """
-    print(f"Executando consulta:\n\n{query}\n\n-------------------------------------------------")
+    
     t, r = execute(query)
     results.append({'tempo':t,'classe':recurso[0],'recurso':recurso[1],'triplas':size(r)})
     
@@ -199,7 +201,7 @@ for recurso in recurso_classe:
                 filter(isURI(?o2))
             }}
     """
-    print(f"Executando consulta:\n\n{query}\n\n-------------------------------------------------")
+    
     t, r = execute(query)
     results.append({'tempo':t,'classe':recurso[0],'recurso':recurso[1],'triplas':size(r)})
 pd_6 = pd.DataFrame(results)
@@ -217,7 +219,7 @@ for recurso in recurso_classe:
                 BIND((REPLACE(STR(?property_),".*(/|#)","")) as ?property)
             }}
     """
-    print(f"Executando consulta:\n\n{query}\n\n-------------------------------------------------")
+    
     t, r = execute(query)
     results.append({'tempo':t,'classe':recurso[0],'recurso':recurso[1],'triplas':size(r)})
 pd_7 = pd.DataFrame(results)
