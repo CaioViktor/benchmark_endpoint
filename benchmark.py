@@ -12,6 +12,7 @@ def execute(query,sparql=sparql):
         print(f"Executando consulta em {datetime.datetime.now()}:\n\n{query}\n\n-------------------------------------------------")
         sparql.setQuery(query)
         sparql.setReturnFormat(JSON)
+        sparql.setTimeout(60 * 20)
         results = sparql.query().convert()
         end_time = time.time()
     except:
@@ -21,7 +22,7 @@ def execute(query,sparql=sparql):
 
 def size(r):
     if r == None:
-        return 0
+        return -1
     return len(r['results']['bindings'])
 
 query= """
@@ -227,4 +228,4 @@ pd_7.to_csv("pd7.csv",index=False)
 print("pd7.csv salvo com sucesso!!!")
 
 
-print("Processo concluído com sucesso!!!")
+print(f"Processo concluído com sucesso em {datetime.datetime.now()}!!!")
