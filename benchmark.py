@@ -14,9 +14,9 @@ def execute(query,sparql=sparql):
         sparql.setReturnFormat(JSON)
         sparql.setTimeout(60 * 20)
         results = sparql.query().convert()
-        end_time = time.time()
     except:
         results = None
+    end_time = time.time()
     timeExecution = end_time - start_time
     return timeExecution, results
 
