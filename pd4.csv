@@ -1,981 +1,1050 @@
 tempo,classe,propriedade,triplas
-0.08713603019714355,Acórdão,data final,0
-0.2542860507965088,Agente,name,100
-0.13597989082336426,Agente,nome,100
-0.6218092441558838,Agente,tem solicitação,0
-0.31009650230407715,Agente,tem tipo de contribuição,100
-0.36803531646728516,Agente,cnpj cpf,100
-0.07394719123840332,Agente,cpf ou cnpj,0
-0.11480855941772461,Agente,identificador de uma pessoa,100
-0.10809063911437988,Agente,É um estrangeiro?,100
-0.09170913696289062,Agente,número de contato,0
-0.06446027755737305,Agente,contact number,0
-0.08196449279785156,Agente,número de fax,0
-0.06865978240966797,Agente,phone number,0
-0.06213092803955078,Agente,número de telefone,0
-0.07982754707336426,Agente,telefone1,0
-0.062364816665649414,Agente,telefone2,0
-0.10142683982849121,Agente,e-mail,100
-0.20985984802246094,Arma,código da arma,100
-0.580277681350708,Arma,descrição completa,100
-0.5755054950714111,Arma,número do cano,100
-0.5670418739318848,Arma,número de série,100
-0.5757200717926025,Arma,tipo de arma,100
-0.0827939510345459,Arquivo,tem status envio,0
-35.7129487991333,Arquivo,categoria,100
-0.7492644786834717,Arquivo,data do arquivo,100
-0.7238764762878418,Arquivo,data de desmembramento,100
-0.06754279136657715,Arquivo,data de geração do arquivo,0
-0.7769639492034912,Arquivo,data de processamento,100
-0.7593193054199219,Arquivo,data de recepção,100
-10.407625913619995,Arquivo,hash,100
-0.9706995487213135,Arquivo,inscrição,100
-0.06367087364196777,Arquivo,nome arquivo,0
-0.08344459533691406,Arquivo,protocolo,0
-0.7500383853912354,Arquivo,protocolo dbe,100
-0.8196709156036377,Arquivo,versão do arquivo,100
-0.0630638599395752,Ativa,tem razão de situação cadastral,0
-0.08237648010253906,Ativa,data situação cadastral,0
-0.06219673156738281,Ativa,data da situação cadastral,0
-0.07250356674194336,Ativa,idêntico / igual / mesmo que / sameAs,0
-0.5090415477752686,Atividade Econômica,descrição da atividade econômica,100
-0.4511408805847168,Atividade Econômica,mais geral,100
-0.07960128784179688,Atividade Econômica,mais específico,0
-0.6411123275756836,Atividade Econômica,CNAE,100
-0.6803421974182129,Atividade Econômica,Classificação Nacional de Atividades Econômicas,100
-0.6247100830078125,Atividade Econômica,CNAE Completo,100
-0.5325140953063965,Atividade Econômica,CNAE Formatado,100
-0.08732390403747559,Atividade Econômica,idêntico / igual / mesmo que / sameAs,0
-0.900458574295044,Bairro,tem cidade,100
-0.13336920738220215,Bairro,bairro,100
-0.06345319747924805,Bairro,e parte de,0
-0.06025552749633789,Bairro,tem parte,0
-0.062035560607910156,Bairro,latitude,0
-0.06903815269470215,Bairro,longitude,0
-0.07817482948303223,Bairro,idêntico / igual / mesmo que / sameAs,0
-0.08239030838012695,Baixa de Ofício,tem razão de situação cadastral,0
-0.0640859603881836,Baixa de Ofício,data situação cadastral,0
-0.060182809829711914,Baixa de Ofício,data da situação cadastral,0
-0.08315777778625488,Baixa de Ofício,idêntico / igual / mesmo que / sameAs,0
-0.08518552780151367,Baixada,tem razão de situação cadastral,0
-0.0875706672668457,Baixada,data situação cadastral,0
-0.08464479446411133,Baixada,data da situação cadastral,0
-0.07482695579528809,Baixada,idêntico / igual / mesmo que / sameAs,0
-1.2404420375823975,CEP do Logradouro,complemento,100
-0.6122851371765137,CEP do Logradouro,complemento do endereço,100
-1.898533821105957,CEP do Logradouro,latitude,100
-1.8318424224853516,CEP do Logradouro,longitude,100
-0.08469796180725098,CEP do Logradouro,latitude,0
-0.08427906036376953,CEP do Logradouro,longitude,0
-0.06886982917785645,CEP do Logradouro,idêntico / igual / mesmo que / sameAs,0
-0.06787490844726562,Cancelada,tem razão de situação cadastral,0
-0.06315803527832031,Cancelada,data situação cadastral,0
-0.07740330696105957,Cancelada,data da situação cadastral,0
-0.06760787963867188,Cancelada,idêntico / igual / mesmo que / sameAs,0
-0.11665582656860352,Caso da consistência,grau de consistência,17
-1.1637954711914062,Cidade | Município,tem estado | tem unidade federativa,100
-1.1667749881744385,Cidade | Município,cep,100
-1.2622849941253662,Cidade | Município,cidade,100
-1.8755502700805664,Cidade | Município,cidade,100
-1.1426727771759033,Cidade | Município,código da cidade,100
-1.1486594676971436,Cidade | Município,código do município,100
-0.7774384021759033,Cidade | Município,código ibge,100
-0.08362603187561035,Cidade | Município,e parte de,0
-0.08876872062683105,Cidade | Município,latitude,0
-0.08386373519897461,Cidade | Município,longitude,0
-0.09180974960327148,Cidade | Município,idêntico / igual / mesmo que / sameAs,0
-0.16531801223754883,Classe CNAE,CNAE,100
-0.11787676811218262,Classe CNAE,Classificação Nacional de Atividades Econômicas,100
-0.10844159126281738,Classe CNAE,descrição da atividade econômica,100
-0.08244156837463379,Classe CNAE,idêntico / igual / mesmo que / sameAs,0
-4.292425155639648,Combustível,tem uf de consumo,100
-1.4617760181427002,Combustível,código de autorização,100
-0.22369980812072754,Combustível,código do combustível,100
-6.181712865829468,Combustível,código do produto anp,100
-2.3287105560302734,Combustível,descrição anp,100
-16.187004327774048,Combustível,percentual de gás importado,100
-16.835863828659058,Combustível,percentual de gás natural,100
-15.588194370269775,Combustível,percentual de glp,100
-1.607490062713623,Combustível,quantidade de combustível faturada,100
-1.0526750087738037,Combustível,valor de partida,100
-0.3280467987060547,Compra Pública,tem ente público,100
-0.13121509552001953,Compra Pública,tem fornecedor,100
-1200.1010477542877,Compra Pública,tem item,-1
-0.2563443183898926,Compra Pública,contrato,100
-0.19527029991149902,Compra Pública,nota de empenho,100
-0.16770052909851074,Compra Pública,número de pedido,100
-0.09969115257263184,Compra Pública,idêntico / igual / mesmo que / sameAs,0
-0.06599879264831543,Consumidor,tem endereço,0
-0.12047648429870605,Consumidor,CNPJ,100
-0.08078956604003906,Consumidor,cnpj,100
-0.10998082160949707,Consumidor,CPF,100
-0.17139959335327148,Consumidor,inscrição estadual,100
-0.11017179489135742,Contador,classificação crc,0
-6.178430557250977,Contador,CPF,100
-1.6455795764923096,Contador,crc data de registro,0
-0.18449115753173828,Contador,é contador,100
-0.10367059707641602,Contador,código da qualificação,0
-0.07438087463378906,Contribuinte,tem fonte cadastro,0
-0.07724118232727051,Contribuinte,tem nacionalidade,0
-0.1015937328338623,Contribuinte,tem usuário,0
-0.07869219779968262,Contribuinte,código tipo de contribuinte,0
-0.07460832595825195,Contribuinte,data inclusão do contribuinte,0
-0.09317874908447266,Contribuinte,inscrição estadual,0
-0.9314265251159668,Contribuinte Geral,tem tipo de regime tributário,100
-0.8744857311248779,Contribuinte ICMS,cnpj cpf,100
-0.3804926872253418,Contribuinte ICMS,inscrição estadual,100
-0.5077617168426514,Contribuinte ICMS,fonte,100
-0.9851863384246826,Contribuinte ICMS,nome contribuinte ICMS,0
-0.10120940208435059,Contribuinte IPVA,cnpj cpf,0
-0.1423630714416504,Contribuinte IPVA,inscrição estadual,100
-0.15688824653625488,Contribuinte IPVA,fonte,100
-0.07952594757080078,Contribuinte IPVA,nome de contribuinte IPVA,0
-0.2389674186706543,Divisão CNAE,CNAE,100
-0.1349484920501709,Divisão CNAE,Classificação Nacional de Atividades Econômicas,100
-0.12525081634521484,Divisão CNAE,descrição da atividade econômica,100
-0.10496759414672852,Divisão CNAE,idêntico / igual / mesmo que / sameAs,0
-0.7915754318237305,Documento,código do documento,7
-3.454214096069336,Documento,orgão emissor do documento,0
-0.4046308994293213,Documento,identidade,100
-0.32848572731018066,Documento,número do órgão,100
-0.15676593780517578,Documento,tipo do documento,0
-5.853570222854614,Documento Fiscal,tem consumidor,100
-0.07930159568786621,Documento Fiscal,tem destinatário,0
-0.07600903511047363,Documento Fiscal,tem item,0
-0.06872105598449707,Documento Fiscal,tem provedor,0
-1.8136661052703857,Documento Fiscal,tem unidade consumo,100
-5.134082794189453,Documento Fiscal,ano de apuração do documento fiscal,100
-2.8603475093841553,Documento Fiscal,código de autenticação,100
-2.9017562866210938,Documento Fiscal,código do documento,100
-1.719022512435913,Documento Fiscal,data de emissão,100
-2.02251935005188,Documento Fiscal,mês apuração,100
-1.7134902477264404,Documento Fiscal,modelo,100
-4.589641809463501,Documento Fiscal,número do documento,100
-0.09417986869812012,Documento Fiscal,número do documento fiscal,0
-1.945561408996582,Documento Fiscal,série,100
-0.11865353584289551,Documento Fiscal,situação,0
-0.18291926383972168,Documento Suplementar,tem arquivo,100
-0.16466975212097168,Documento Suplementar,tem protocolo,100
-0.17996549606323242,Documento Suplementar,código suframa,0
-0.17844700813293457,Documento Suplementar,data de validade,100
-0.15682649612426758,Documento Suplementar,descrição,0
-3.938523769378662,Documento Suplementar,fim da validade,0
-0.16226863861083984,Documento Suplementar,modelo,100
-0.172499418258667,Documento Suplementar,número do documento,100
-0.1753373146057129,Documento Suplementar,observação,100
-0.31249046325683594,Emancipado,motivo emancipado,0
-0.10988259315490723,Empresa Holding,qualificação do responsável,0
-0.2732546329498291,Empresa Holding,tem matriz,100
-0.7344582080841064,Empresa Holding,cnpj raíz,100
-0.2852306365966797,Empresa Holding,razão social,100
-0.2965528964996338,Empresa Holding,idêntico / igual / mesmo que / sameAs,0
-0.11784958839416504,Empresa Holding,e-mail,100
-0.28654026985168457,Empresa | Organização | Pessoa Jurídica,razão social,100
-0.07696294784545898,Empresa | Organização | Pessoa Jurídica,Faz parte do Grupo,0
-19.587639093399048,Empresa | Organização | Pessoa Jurídica,opção por simples,100
-1.9110417366027832,Empresa | Organização | Pessoa Jurídica,tem_deposito,0
-2.0856921672821045,Empresa | Organização | Pessoa Jurídica,tem estabelecimento,100
-0.3844766616821289,Empresa | Organização | Pessoa Jurídica,tem filial,100
-1.7612533569335938,Empresa | Organização | Pessoa Jurídica,tem matriz,100
-0.9748694896697998,Empresa | Organização | Pessoa Jurídica,tem natureza legal,100
-0.08147382736206055,Empresa | Organização | Pessoa Jurídica,tem opção pelo SIMPLES,0
-1.1454787254333496,Empresa | Organização | Pessoa Jurídica,tem porte empresarial,100
-0.10409665107727051,Empresa | Organização | Pessoa Jurídica,tem regime de pagamento,0
-0.0780482292175293,Empresa | Organização | Pessoa Jurídica,tem regime tributário,0
-0.11562085151672363,Empresa | Organização | Pessoa Jurídica,tem situação especial,86
-1.263808250427246,Empresa | Organização | Pessoa Jurídica,tem sociedade,100
-2.376403331756592,Empresa | Organização | Pessoa Jurídica,tem solicitação,100
-0.9350659847259521,Empresa | Organização | Pessoa Jurídica,tem usuário,100
-0.06487703323364258,Empresa | Organização | Pessoa Jurídica,ligado à,0
-0.2195751667022705,Empresa | Organização | Pessoa Jurídica,CNPJ,100
-0.1319105625152588,Empresa | Organização | Pessoa Jurídica,cnpj,100
-0.8196370601654053,Empresa | Organização | Pessoa Jurídica,cnpj raíz,100
-0.5053577423095703,Empresa | Organização | Pessoa Jurídica,data de assinatura,100
-0.42936158180236816,Empresa | Organização | Pessoa Jurídica,data atualização,100
-2.3084092140197754,Empresa | Organização | Pessoa Jurídica,data de constituição,100
-0.32849550247192383,Empresa | Organização | Pessoa Jurídica,data de fechamento fiscal,100
-0.07885146141052246,Empresa | Organização | Pessoa Jurídica,é MEI?,0
-0.07022809982299805,Empresa | Organização | Pessoa Jurídica,empresa é um Microempreendedor Individual (MEI)?,0
-0.07378768920898438,Empresa | Organização | Pessoa Jurídica,número de contato,0
-0.06470179557800293,Empresa | Organização | Pessoa Jurídica,contact number,0
-1.0764105319976807,Empresa | Organização | Pessoa Jurídica,nire,100
-0.06198406219482422,Empresa | Organização | Pessoa Jurídica,nire anterior,0
-0.09042954444885254,Empresa | Organização | Pessoa Jurídica,número de fax,0
-0.07845330238342285,Empresa | Organização | Pessoa Jurídica,phone number,0
-0.07503271102905273,Empresa | Organização | Pessoa Jurídica,número de telefone,0
-0.13972759246826172,Empresa | Organização | Pessoa Jurídica,siglas,12
-0.09752154350280762,Empresa | Organização | Pessoa Jurídica,telefone1,0
-0.07475042343139648,Empresa | Organização | Pessoa Jurídica,telefone2,0
-0.9610586166381836,Empresa | Organização | Pessoa Jurídica,valor de capital social,100
-2.9930598735809326,Empresa | Organização | Pessoa Jurídica,Capital Social,100
-0.08051705360412598,Empresa | Organização | Pessoa Jurídica,valor estimado,0
-0.8368692398071289,Empresa | Organização | Pessoa Jurídica,data incorporação,100
-0.10670137405395508,Empresa | Organização | Pessoa Jurídica,qualificação do responsável,0
-0.23636817932128906,Empresa | Organização | Pessoa Jurídica,e-mail,100
-8.323869228363037,Empresa | Organização | Pessoa Jurídica,idêntico / igual / mesmo que / sameAs,100
-0.06788873672485352,Empresa | Organização | Pessoa Jurídica REDESIM,qualificação do responsável,0
-0.5532827377319336,Empresa | Organização | Pessoa Jurídica REDESIM,tem matriz,100
-0.5697453022003174,Empresa | Organização | Pessoa Jurídica REDESIM,cnpj raíz,100
-1.5039219856262207,Empresa | Organização | Pessoa Jurídica REDESIM,razão social,100
-0.5317244529724121,Empresa | Organização | Pessoa Jurídica REDESIM,e-mail,0
-0.8949861526489258,Empresa | Organização | Pessoa Jurídica REDESIM,idêntico / igual / mesmo que / sameAs,100
-3.0746169090270996,Empresa | Organização | Pessoa Jurídica RFB,qualificação do responsável,0
-13.7675621509552,Empresa | Organização | Pessoa Jurídica RFB,tem matriz,100
-0.0813450813293457,Empresa | Organização | Pessoa Jurídica RFB,cnpj raíz,100
-15.610054731369019,Empresa | Organização | Pessoa Jurídica RFB,razão social,100
-0.15817832946777344,Empresa | Organização | Pessoa Jurídica RFB,e-mail,0
-0.25550198554992676,Empresa | Organização | Pessoa Jurídica RFB,idêntico / igual / mesmo que / sameAs,100
-0.08841705322265625,Empresa | Organização | Pessoa Jurídica SEFAZ,qualificação do responsável,0
-0.1141653060913086,Empresa | Organização | Pessoa Jurídica SEFAZ,tem matriz,100
-0.3956031799316406,Empresa | Organização | Pessoa Jurídica SEFAZ,cnpj raíz,100
-0.6117153167724609,Empresa | Organização | Pessoa Jurídica SEFAZ,razão social,100
-1.1652719974517822,Empresa | Organização | Pessoa Jurídica SEFAZ,e-mail,0
-5.517614364624023,Empresa | Organização | Pessoa Jurídica SEFAZ,idêntico / igual / mesmo que / sameAs,100
-0.5445325374603271,Endereço,tem bairro,100
-0.26471519470214844,Endereço,tem cidade,100
-0.16880059242248535,Endereço,tem estado | tem unidade federativa,100
-0.14237117767333984,Endereço,tem logradouro,100
-0.1181950569152832,Endereço,tem pais,100
-0.2601206302642822,Endereço,caixa postal do endereço,1
-0.8045306205749512,Endereço,cep caixa postal,0
-0.20738530158996582,Endereço,cidade,100
-0.16329026222229004,Endereço,cidade,100
-0.08743643760681152,Endereço,código da zona postal,0
-0.19144153594970703,Endereço,complemento,100
-0.108978271484375,Endereço,complemento do endereço,100
-0.24972772598266602,Endereço,estado,100
-0.2604529857635498,Endereço,logradouro,100
-0.12148427963256836,Endereço,logradouro,100
-0.21963810920715332,Endereço,número,100
-0.1239159107208252,Endereço,número,100
-0.09302306175231934,Endereço,número do endereço,0
-0.10814476013183594,Endereço,referência,100
-0.2996809482574463,Endereço,CEP,100
-0.13949179649353027,Endereço,cep,100
-0.07836079597473145,Endereço,CEP,0
-0.23884153366088867,Endereço,tem consistência com os correios,100
-1.6267216205596924,Endereço,tem similaridade,100
-0.07806825637817383,Endereço,idêntico / igual / mesmo que / sameAs,0
-0.06525230407714844,Endereço C115,tem consistência com os correios,0
-0.0690622329711914,Endereço C115,tem similaridade,0
-0.06974339485168457,Endereço C115,cidade,0
-0.061856985092163086,Endereço C115,cidade,0
-0.06662440299987793,Endereço C115,estado,0
-0.06909918785095215,Endereço C115,logradouro,0
-0.0604853630065918,Endereço C115,logradouro,0
-0.06154322624206543,Endereço C115,número,0
-0.05993247032165527,Endereço C115,número,0
-0.08923530578613281,Endereço C115,número do endereço,0
-0.07011175155639648,Endereço C115,CEP,0
-0.06286334991455078,Endereço C115,cep,0
-0.06367897987365723,Endereço C115,idêntico / igual / mesmo que / sameAs,0
-0.06346440315246582,Endereço C115,tem consistência com os correios,0
-0.06566524505615234,Endereço C115,tem similaridade,0
-0.07330799102783203,Endereço C115,cidade,0
-0.09128260612487793,Endereço C115,cidade,0
-0.07321596145629883,Endereço C115,estado,0
-0.07699251174926758,Endereço C115,logradouro,0
-0.06585550308227539,Endereço C115,logradouro,0
-0.15005254745483398,Endereço C115,número,100
-0.1391608715057373,Endereço C115,número,100
-0.07564496994018555,Endereço C115,número do endereço,0
-0.1815176010131836,Endereço C115,CEP,100
-0.13631081581115723,Endereço C115,cep,100
-0.07087850570678711,Endereço C115,idêntico / igual / mesmo que / sameAs,0
-0.06691622734069824,Endereço C115 Comunicação,tem consistência com os correios,0
-0.08867692947387695,Endereço C115 Comunicação,tem similaridade,0
-0.09174489974975586,Endereço C115 Comunicação,cidade,0
-0.07387375831604004,Endereço C115 Comunicação,cidade,0
-0.0794069766998291,Endereço C115 Comunicação,estado,0
-0.08579587936401367,Endereço C115 Comunicação,logradouro,0
-0.06424474716186523,Endereço C115 Comunicação,logradouro,0
-0.06351065635681152,Endereço C115 Comunicação,número,0
-0.07961082458496094,Endereço C115 Comunicação,número,0
-0.06429219245910645,Endereço C115 Comunicação,número do endereço,0
-0.06769657135009766,Endereço C115 Comunicação,CEP,0
-0.08715200424194336,Endereço C115 Comunicação,cep,0
-0.0688638687133789,Endereço C115 Comunicação,idêntico / igual / mesmo que / sameAs,0
-0.07259368896484375,Endereço C115 Energia,tem consistência com os correios,0
-0.10186600685119629,Endereço C115 Energia,tem similaridade,0
-0.06999444961547852,Endereço C115 Energia,cidade,0
-0.06959009170532227,Endereço C115 Energia,cidade,0
-0.07104039192199707,Endereço C115 Energia,estado,0
-0.0705573558807373,Endereço C115 Energia,logradouro,0
-0.06576704978942871,Endereço C115 Energia,logradouro,0
-0.07018423080444336,Endereço C115 Energia,número,0
-0.06616902351379395,Endereço C115 Energia,número,0
-0.06687784194946289,Endereço C115 Energia,número do endereço,0
-0.06751227378845215,Endereço C115 Energia,CEP,0
-0.07816362380981445,Endereço C115 Energia,cep,0
-0.07532310485839844,Endereço C115 Energia,idêntico / igual / mesmo que / sameAs,0
-0.0683298110961914,Endereço C115 Telecomunicação,tem consistência com os correios,0
-0.07933759689331055,Endereço C115 Telecomunicação,tem similaridade,0
-0.07330179214477539,Endereço C115 Telecomunicação,cidade,0
-0.07476997375488281,Endereço C115 Telecomunicação,cidade,0
-0.07970952987670898,Endereço C115 Telecomunicação,estado,0
-0.07732248306274414,Endereço C115 Telecomunicação,logradouro,0
-1.429985761642456,Endereço C115 Telecomunicação,logradouro,0
-0.06829428672790527,Endereço C115 Telecomunicação,número,0
-0.06328487396240234,Endereço C115 Telecomunicação,número,0
-0.06364226341247559,Endereço C115 Telecomunicação,número do endereço,0
-0.05977272987365723,Endereço C115 Telecomunicação,CEP,0
-0.05982685089111328,Endereço C115 Telecomunicação,cep,0
-0.06362795829772949,Endereço C115 Telecomunicação,idêntico / igual / mesmo que / sameAs,0
-0.06380438804626465,Endereço Cadastro Sefaz,tem consistência com os correios,0
-0.06326866149902344,Endereço Cadastro Sefaz,tem similaridade,0
-0.09387969970703125,Endereço Cadastro Sefaz,cidade,0
-0.0667719841003418,Endereço Cadastro Sefaz,cidade,0
-0.06683897972106934,Endereço Cadastro Sefaz,estado,0
-0.09539103507995605,Endereço Cadastro Sefaz,logradouro,0
-0.06639719009399414,Endereço Cadastro Sefaz,logradouro,0
-0.10199403762817383,Endereço Cadastro Sefaz,número,0
-0.06971979141235352,Endereço Cadastro Sefaz,número,0
-0.07817363739013672,Endereço Cadastro Sefaz,número do endereço,0
-0.06736493110656738,Endereço Cadastro Sefaz,CEP,0
-0.07007408142089844,Endereço Cadastro Sefaz,cep,0
-0.07143735885620117,Endereço Cadastro Sefaz,idêntico / igual / mesmo que / sameAs,0
-0.4788029193878174,Endereço Cadastro da SEFAZ,tem consistência com os correios,100
-0.4962775707244873,Endereço Cadastro da SEFAZ,tem similaridade,100
-0.07026219367980957,Endereço Cadastro da SEFAZ,cidade,0
-0.0640263557434082,Endereço Cadastro da SEFAZ,cidade,0
-0.07300829887390137,Endereço Cadastro da SEFAZ,estado,0
-0.06782722473144531,Endereço Cadastro da SEFAZ,logradouro,0
-0.06558513641357422,Endereço Cadastro da SEFAZ,logradouro,0
-0.07862353324890137,Endereço Cadastro da SEFAZ,número,100
-0.07690978050231934,Endereço Cadastro da SEFAZ,número,100
-0.06955218315124512,Endereço Cadastro da SEFAZ,número do endereço,0
-0.08222293853759766,Endereço Cadastro da SEFAZ,CEP,100
-0.07942056655883789,Endereço Cadastro da SEFAZ,cep,100
-0.07706713676452637,Endereço Cadastro da SEFAZ,idêntico / igual / mesmo que / sameAs,0
-0.06516838073730469,Endereço NFE,tem consistência com os correios,0
-0.06902050971984863,Endereço NFE,tem similaridade,0
-0.0706026554107666,Endereço NFE,cidade,0
-0.06817126274108887,Endereço NFE,cidade,0
-0.07002806663513184,Endereço NFE,estado,0
-0.059807538986206055,Endereço NFE,logradouro,0
-0.06553506851196289,Endereço NFE,logradouro,0
-0.0679469108581543,Endereço NFE,número,0
-0.06169295310974121,Endereço NFE,número,0
-0.06751155853271484,Endereço NFE,número do endereço,0
-0.06790566444396973,Endereço NFE,CEP,0
-0.06757116317749023,Endereço NFE,cep,0
-0.06763887405395508,Endereço NFE,idêntico / igual / mesmo que / sameAs,0
-0.07581877708435059,Endereço REDESIM,tem consistência com os correios,0
-0.0717000961303711,Endereço REDESIM,tem similaridade,0
-0.07138371467590332,Endereço REDESIM,cidade,0
-0.0739142894744873,Endereço REDESIM,cidade,0
-0.06785893440246582,Endereço REDESIM,estado,0
-0.07687520980834961,Endereço REDESIM,logradouro,0
-0.0671091079711914,Endereço REDESIM,logradouro,0
-0.06579041481018066,Endereço REDESIM,número,0
-0.06442475318908691,Endereço REDESIM,número,0
-0.09578323364257812,Endereço REDESIM,número do endereço,0
-0.07163095474243164,Endereço REDESIM,CEP,0
-0.09361457824707031,Endereço REDESIM,cep,0
-0.06998324394226074,Endereço REDESIM,idêntico / igual / mesmo que / sameAs,0
-1.2461864948272705,Endereço REDESIM,tem consistência com os correios,100
-2.5674779415130615,Endereço REDESIM,tem similaridade,100
-2.0227723121643066,Endereço REDESIM,cidade,100
-3.6082940101623535,Endereço REDESIM,cidade,100
-1.5607118606567383,Endereço REDESIM,estado,100
-1.4242017269134521,Endereço REDESIM,logradouro,100
-1.201899528503418,Endereço REDESIM,logradouro,100
-5.863687992095947,Endereço REDESIM,número,100
-4.046139478683472,Endereço REDESIM,número,100
-0.08205938339233398,Endereço REDESIM,número do endereço,0
-3.6183764934539795,Endereço REDESIM,CEP,100
-4.48719334602356,Endereço REDESIM,cep,100
-0.07885265350341797,Endereço REDESIM,idêntico / igual / mesmo que / sameAs,0
-0.08395218849182129,Endereço RFB,tem consistência com os correios,0
-0.07750105857849121,Endereço RFB,tem similaridade,0
-0.5577273368835449,Endereço RFB,cidade,0
-0.08121752738952637,Endereço RFB,cidade,0
-0.08156299591064453,Endereço RFB,estado,0
-0.08251523971557617,Endereço RFB,logradouro,0
-0.08017778396606445,Endereço RFB,logradouro,0
-0.07208776473999023,Endereço RFB,número,0
-0.0769352912902832,Endereço RFB,número,0
-0.07632780075073242,Endereço RFB,número do endereço,0
-0.07981586456298828,Endereço RFB,CEP,0
-0.075897216796875,Endereço RFB,cep,0
-0.0798044204711914,Endereço RFB,idêntico / igual / mesmo que / sameAs,0
-2.708394765853882,Endereço RFB,tem consistência com os correios,100
-1.4997618198394775,Endereço RFB,tem similaridade,100
-0.06433677673339844,Endereço RFB,cidade,0
-3.3385891914367676,Endereço RFB,cidade,0
-0.09271240234375,Endereço RFB,estado,0
-0.07271480560302734,Endereço RFB,logradouro,0
-0.09600377082824707,Endereço RFB,logradouro,0
-0.20743608474731445,Endereço RFB,número,100
-0.14607548713684082,Endereço RFB,número,100
-0.07983136177062988,Endereço RFB,número do endereço,0
-0.21524763107299805,Endereço RFB,CEP,100
-0.17481398582458496,Endereço RFB,cep,100
-0.09987473487854004,Endereço RFB,idêntico / igual / mesmo que / sameAs,0
-0.13352227210998535,Ente Público,tem estado | tem unidade federativa,100
-0.0987241268157959,Ente Público,código srf,100
-0.0971221923828125,Ente Público,esfera,100
-0.10797643661499023,Ente Público,natureza jurídica,100
-0.0910944938659668,Ente Público,nivel,100
-0.07877993583679199,Ente Público,qualificação do responsável,0
-0.0798947811126709,Ente Público,tem matriz,0
-0.08338379859924316,Ente Público,cnpj raíz,0
-0.08545351028442383,Ente Público,razão social,100
-0.07819032669067383,Ente Público,idêntico / igual / mesmo que / sameAs,0
-0.07922792434692383,Ente Público,e-mail,0
-0.2300577163696289,Entidade Integrada,código da entidade integrada,13
-0.386415958404541,Estabelecimento,nome fantasia,100
-15.99550485610962,Estabelecimento,razão social,100
-1.5765395164489746,Estabelecimento,é contribuinte geral,100
-0.07852911949157715,Estabelecimento,é estabelecimento de,0
-0.07585597038269043,Estabelecimento,é matriz de,0
-4.5067198276519775,Estabelecimento,foi desabilitado,100
-1.2098126411437988,Estabelecimento,tem atividade econômica,100
-0.5416250228881836,Estabelecimento,tem atividade econômica principal,100
-0.8221225738525391,Estabelecimento,tem atividade econômica secundária,100
-0.09824585914611816,Estabelecimento,tem baixa,0
-0.4636828899383545,Estabelecimento,tem endereço,100
-0.676501989364624,Estabelecimento,tem obrigação legal,100
-5.140142917633057,Estabelecimento,tem realização de atividade econômica,100
-537.2567462921143,Estabelecimento,tem situação cadastral,100
-1.0433869361877441,Estabelecimento,tem situação fiscal,100
-0.4212534427642822,Estabelecimento,tem tipo de contribuição,100
-0.5443723201751709,Estabelecimento,estabelecimento tem o tipo,100
-0.39750194549560547,Estabelecimento,tem tipo de regime tributário,100
-0.1051027774810791,Estabelecimento,tem unidade consumo,0
-0.45055651664733887,Estabelecimento,tem unidade fiscal,100
-0.304931640625,Estabelecimento,tem usuário,100
-0.5244643688201904,Estabelecimento,area,100
-0.340806245803833,Estabelecimento,CNPJ,100
-1.2784924507141113,Estabelecimento,cnpj,100
-0.3721656799316406,Estabelecimento,cnpj completo,100
-0.3775322437286377,Estabelecimento,código de regime mercantil,100
-0.06660103797912598,Estabelecimento,contato,0
-19.56839871406555,Estabelecimento,data de início das atividades do estabelecimento,100
-0.6724557876586914,Estabelecimento,ddd,0
-0.09134483337402344,Estabelecimento,ddd do fax,0
-0.3376576900482178,Estabelecimento,fax,100
-0.34064364433288574,Estabelecimento,número de contato,100
-0.3827807903289795,Estabelecimento,contact number,100
-0.30878520011901855,Estabelecimento,telefone,100
-0.10622000694274902,Estabelecimento,incra,0
-0.2829759120941162,Estabelecimento,inscrição estadual,100
-0.20957326889038086,Estabelecimento,inscrição imobiliária,100
-0.1207437515258789,Estabelecimento,inscrição municipal,100
-0.10641813278198242,Estabelecimento,metragem,100
-0.07705092430114746,Estabelecimento,nire matriz,0
-0.1591966152191162,Estabelecimento,nirf,0
-0.3561892509460449,Estabelecimento,nivel cumprimento,100
-0.06854677200317383,Estabelecimento,número do imóvel,0
-0.14420580863952637,Estabelecimento,número da licenca,1
-0.08763527870178223,Estabelecimento,número de registro dos bens,0
-0.07263612747192383,Estabelecimento,regime de bens,0
-0.3004729747772217,Estabelecimento,e-mail,100
-0.06444907188415527,Estabelecimento,phone number,0
-0.08238935470581055,Estabelecimento,número de telefone,0
-2.5762529373168945,Estabelecimento,idêntico / igual / mesmo que / sameAs,100
-0.07047462463378906,Estabelecimento,número de fax,0
-0.07553958892822266,Estabelecimento REDESIM,cnpj completo,100
-0.11210846900939941,Estabelecimento REDESIM,nome fantasia,100
-0.08004188537597656,Estabelecimento REDESIM,número de contato,0
-0.07381987571716309,Estabelecimento REDESIM,contact number,0
-0.07850170135498047,Estabelecimento REDESIM,phone number,0
-0.5181207656860352,Estabelecimento REDESIM,número de telefone,0
-0.07676458358764648,Estabelecimento REDESIM,razão social,0
-0.10152602195739746,Estabelecimento REDESIM,telefone,100
-0.11631369590759277,Estabelecimento REDESIM,idêntico / igual / mesmo que / sameAs,100
-0.07378387451171875,Estabelecimento REDESIM,fax,100
-0.08518385887145996,Estabelecimento REDESIM,número de fax,0
-0.10383105278015137,Estabelecimento REDESIM,e-mail,100
-0.07721900939941406,Estabelecimento RFB,cnpj completo,100
-19.67395782470703,Estabelecimento RFB,nome fantasia,100
-144.02915382385254,Estabelecimento RFB,número de contato,100
-145.9635305404663,Estabelecimento RFB,contact number,100
-1.4909653663635254,Estabelecimento RFB,phone number,0
-0.07926416397094727,Estabelecimento RFB,número de telefone,0
-59.87797522544861,Estabelecimento RFB,razão social,100
-114.05229425430298,Estabelecimento RFB,telefone,100
-2.6267600059509277,Estabelecimento RFB,idêntico / igual / mesmo que / sameAs,100
-4.453575849533081,Estabelecimento RFB,fax,100
-1.792776346206665,Estabelecimento RFB,número de fax,0
-19.8465576171875,Estabelecimento RFB,e-mail,100
-0.08654546737670898,Estabelecimento SEFAZ,cnpj completo,0
-0.0862112045288086,Estabelecimento SEFAZ,nome fantasia,0
-0.08457565307617188,Estabelecimento SEFAZ,número de contato,0
-0.08774304389953613,Estabelecimento SEFAZ,contact number,0
-0.09325313568115234,Estabelecimento SEFAZ,phone number,0
-0.090576171875,Estabelecimento SEFAZ,número de telefone,0
-0.0922398567199707,Estabelecimento SEFAZ,razão social,0
-0.07868385314941406,Estabelecimento SEFAZ,telefone,0
-0.08005976676940918,Estabelecimento SEFAZ,idêntico / igual / mesmo que / sameAs,0
-0.09363722801208496,Estabelecimento SEFAZ,fax,0
-0.08996820449829102,Estabelecimento SEFAZ,número de fax,0
-0.08079004287719727,Estabelecimento SEFAZ,e-mail,0
-0.07320046424865723,Evento Desabilitado,tem razão desabilitado,0
-3.368459939956665,Evento Desabilitado,tem razão de situação cadastral,100
-2.1812331676483154,Evento Desabilitado,tem registro desabilitado,100
-0.21016192436218262,Exigência,tem documento suplementar,0
-0.1616988182067871,Exigência,código da exigência,0
-0.186875581741333,Exigência,descrição da exigência,0
-1.0693483352661133,Fornecedor,nome fantasia,100
-0.32227182388305664,Fornecedor,tem atividade econômica,100
-0.5672149658203125,Fornecedor,código de regime tributário,100
-0.6416501998901367,Fornecedor,inscrição estadual,100
-0.3060448169708252,Fornecedor,inscrição municipal,100
-0.6451222896575928,Fornecedor,número do item,0
-0.07607293128967285,Fornecedor,idêntico / igual / mesmo que / sameAs,0
-0.07801485061645508,Fornecedor Inabilitado,tem acordão,0
-0.07425951957702637,Fornecedor Inabilitado,idêntico / igual / mesmo que / sameAs,0
-0.08298587799072266,Fornecedor Inidôneo,tem acordão,0
-0.07555508613586426,Fornecedor Inidôneo,idêntico / igual / mesmo que / sameAs,0
-0.13315224647521973,Fornecedor Pessoa Física,CPF,100
-0.17861270904541016,Fornecedor Pessoa Física,name,73
-0.10004019737243652,Fornecedor Pessoa Física,nome,73
-0.09631729125976562,Fornecedor Pessoa Física,idêntico / igual / mesmo que / sameAs,0
-0.07999897003173828,Fornecedor Pessoa Física,e-mail,0
-0.07187604904174805,Fornecedor Pessoa Jurídica,qualificação do responsável,0
-0.0807342529296875,Fornecedor Pessoa Jurídica,tem matriz,0
-0.07724642753601074,Fornecedor Pessoa Jurídica,cnpj raíz,0
-0.1107931137084961,Fornecedor Pessoa Jurídica,razão social,100
-0.08344125747680664,Fornecedor Pessoa Jurídica,idêntico / igual / mesmo que / sameAs,0
-0.0867757797241211,Fornecedor Pessoa Jurídica,e-mail,0
-0.10146665573120117,Fornecedor Restrito,nome fantasia,100
-0.10171818733215332,Fornecedor Restrito,tem cidade,73
-0.1689748764038086,Fornecedor Restrito,tem estado | tem unidade federativa,100
-0.14116621017456055,Fornecedor Restrito,CNPJ,100
-0.11052703857421875,Fornecedor Restrito,cnpj,100
-0.11867284774780273,Fornecedor Restrito,cnpj cpf,100
-0.13791346549987793,Fornecedor Restrito,CPF,100
-0.12241816520690918,Fornecedor Restrito,número do documento,-1
-0.09128141403198242,Fornecedor Restrito,idêntico / igual / mesmo que / sameAs,0
-0.07755231857299805,Grupo,membro,0
-0.164719820022583,Grupo,e-mail,100
-0.24198126792907715,Grupo CNAE,CNAE,100
-0.10760855674743652,Grupo CNAE,Classificação Nacional de Atividades Econômicas,100
-0.1297004222869873,Grupo CNAE,descrição da atividade econômica,100
-0.08320045471191406,Grupo CNAE,idêntico / igual / mesmo que / sameAs,0
-0.3287045955657959,Imposto,tem periodicidade,5
-0.9849662780761719,Imposto,código do imposto,3
-1.452322244644165,Imposto,código periodicidade,0
-0.10972332954406738,Inadimplente,tem inadimplencia,-1
-0.12487626075744629,Inadimplente,número do documento,-1
-0.08207011222839355,Inadimplente,idêntico / igual / mesmo que / sameAs,0
-0.15252923965454102,Inadimplência,tem infração,100
-0.17046403884887695,Inadimplência,tem obrigação,100
-0.15514588356018066,Inadimplência,data de exclusão,100
-0.08563685417175293,Inadimplência,data final,0
-0.18610858917236328,Inadimplência,data inicial,100
-0.16057372093200684,Inadimplência,motivo de exclusão,100
-0.15186214447021484,Inadimplência,número de meses,100
-0.17067480087280273,Inadimplência,observação,100
-0.1628398895263672,Inadimplência,unidade de inclusão,100
-0.15142297744750977,Inadimplência,usuário da exclusão,100
-0.1580812931060791,Inadimplência,usuário da inclusão,100
-0.07319068908691406,Inapta,tem razão de situação cadastral,0
-0.06685924530029297,Inapta,data situação cadastral,0
-0.07512855529785156,Inapta,data da situação cadastral,0
-0.07976245880126953,Inapta,idêntico / igual / mesmo que / sameAs,0
-0.3379688262939453,Infração,código da infração,7
-0.4237520694732666,Infração,tipo de infração,9
-6.8944337368011475,Item,tem documento fiscal,100
-275.38902854919434,Item,tem produto,100
-1.8808600902557373,Item,aliquota,100
-0.5670433044433594,Item,código do item,100
-1149.4773240089417,Item,informações adicionais,-1
-417.7075397968292,Item,número do item,100
-4.000553369522095,Item,número ordem,100
-1.908815622329712,Item,unidade de medida,100
-2.627586841583252,Item,valor de acréscimo,100
-1.7217462062835693,Item,valor de desconto,100
-0.15247392654418945,Item,descrição classificação,0
-2.6671669483184814,Item,classificação,100
-311.8682291507721,Item,tem compra pública,100
-2.41149640083313,Item,grupo,100
-0.4808189868927002,Localização | Local,latitude,100
-0.09427213668823242,Localização | Local,longitude,100
-0.15386033058166504,Logradouro,tem bairro,100
-0.13053297996520996,Logradouro,tem cidade,100
-0.12429642677307129,Logradouro,logradouro,100
-0.09063434600830078,Logradouro,logradouro,100
-0.11486959457397461,Logradouro,tipo do logradouro,0
-0.11119222640991211,Logradouro,tipo do logradouro,100
-2.659022092819214,Logradouro,CEP,0
-0.10860705375671387,Logradouro,cep,0
-0.09752750396728516,Logradouro,tem cep,100
-0.08550906181335449,Logradouro,latitude,0
-0.08791851997375488,Logradouro,longitude,0
-0.0863792896270752,Logradouro,e parte de,0
-0.09120798110961914,Logradouro,CEP,0
-0.0857095718383789,Logradouro,idêntico / igual / mesmo que / sameAs,0
-0.8041543960571289,Medicamento,código do medicamento,100
-36.84019684791565,Medicamento,código do produto anvisa,100
-0.35562753677368164,Medicamento,data de fabricação,100
-22.155988454818726,Medicamento,motivo de isenção anvisa,100
-40.3132107257843,Medicamento,número do lote,100
-45.8820481300354,Medicamento,preço máximo do consumidor,100
-45.55527353286743,Medicamento,quantidade,100
-0.2340075969696045,Natureza Legal | Natureza Jurídica,código da natureza legal,100
-0.1023712158203125,Natureza Legal | Natureza Jurídica,idêntico / igual / mesmo que / sameAs,0
-0.10790348052978516,Nula,tem razão de situação cadastral,0
-0.10464262962341309,Nula,data situação cadastral,0
-0.1179656982421875,Nula,data da situação cadastral,0
-0.07134437561035156,Nula,idêntico / igual / mesmo que / sameAs,0
-0.758695125579834,Não Contribuinte,cnpj cpf,100
-2.638162136077881,Não Contribuinte,inscrição estadual,100
-0.8313536643981934,Não Contribuinte,nome de não contribuinte,100
-0.11867713928222656,Obrigação,data de vencimento,-1
-0.13413548469543457,Obrigação,objeto da obrigação,-1
-0.10900282859802246,Obrigação,valor da obrigação,-1
-0.7744131088256836,Obrigação Legal,tem imposto,100
-1.8797461986541748,Obrigação Legal,tem situação obrigação,100
-0.36503100395202637,Obrigação Legal,tem usuário,100
-0.15726399421691895,Obrigação Legal,data fim da obrigação legal,100
-0.3511922359466553,Obrigação Legal,data início da obrigação legal,100
-0.185333251953125,Opção pelo regime SIMPLES,data de exclusão do regime SIMPLES,100
-0.21538901329040527,Opção pelo regime SIMPLES,data de opção pelo regime SIMPLES,100
-0.10241246223449707,Opção pelo regime SIMPLES,data exclusão do simples,0
-0.21169257164001465,Opção pelo regime SIMPLES,tipo da opção pelo simples,100
-0.13305950164794922,País,código de país,100
-0.1076955795288086,País,código do país RFB,0
-0.10298466682434082,País,nome do país,100
-0.07428503036499023,País,nome do país,0
-0.07801461219787598,País,latitude,0
-3.6031782627105713,País,longitude,0
-0.07959508895874023,País,código da cidade,0
-0.07356381416320801,País,código do município,0
-0.07986807823181152,País,idêntico / igual / mesmo que / sameAs,0
-0.6774382591247559,Pessoa Física,é emancipado,0
-0.13973450660705566,Pessoa Física,tem cidade de naturalidade,0
-0.9562597274780273,Pessoa Física,tem documento,100
-0.8164839744567871,Pessoa Física,tem mãe,100
-2.5376009941101074,Pessoa Física,tem nacionalidade,100
-0.5161094665527344,Pessoa Física,tem pai,100
-0.09894442558288574,Pessoa Física,tem uf de naturalidade,0
-0.07691383361816406,Pessoa Física,data de óbito,0
-0.27886033058166504,Pessoa Física,CPF,100
-0.9825460910797119,Pessoa Física,data de nascimento,100
-2.1678032875061035,Pessoa Física,orgão emissor do documento,0
-0.9174556732177734,Pessoa Física,estado civil,100
-1.9372506141662598,Pessoa Física,fax,100
-2.220458507537842,Pessoa Física,número de contato,0
-0.08125472068786621,Pessoa Física,contact number,0
-1.4490160942077637,Pessoa Física,telefone,100
-1.159696102142334,Pessoa Física,identidade,100
-1.9895691871643066,Pessoa Física,número de fax,0
-0.07748007774353027,Pessoa Física,phone number,0
-0.08006858825683594,Pessoa Física,número de telefone,0
-0.3770749568939209,Pessoa Física,prazo indeterminado,0
-0.61686110496521,Pessoa Física,regime de bens,100
-0.9849121570587158,Pessoa Física,sexo,100
-0.10457420349121094,Pessoa Física,telefone1,0
-0.10435032844543457,Pessoa Física,telefone2,0
-4.211937665939331,Pessoa Física,telefone,0
-0.7756876945495605,Pessoa Física,e-mail,100
-1.2459380626678467,Pessoa Física,gênero,100
-0.3158142566680908,Pessoa Física,name,100
-0.18886613845825195,Pessoa Física,nome,100
-0.08951950073242188,Pessoa Física,idêntico / igual / mesmo que / sameAs,0
-5.388571262359619,Pessoa Física Cadastro SEFAZ,name,100
-6.08392596244812,Pessoa Física Cadastro SEFAZ,nome,100
-1.1518211364746094,Pessoa Física Cadastro SEFAZ,e-mail,100
-0.0858161449432373,Pessoa Física Cadastro SEFAZ,idêntico / igual / mesmo que / sameAs,0
-0.9624667167663574,Pessoa Física REDESIM,name,100
-0.5085086822509766,Pessoa Física REDESIM,nome,100
-1.2209789752960205,Pessoa Física REDESIM,e-mail,100
-3.16780948638916,Pessoa Física REDESIM,idêntico / igual / mesmo que / sameAs,0
-0.19254159927368164,Pessoa Física RFB,name,100
-0.2012171745300293,Pessoa Física RFB,nome,100
-0.09918093681335449,Pessoa Física RFB,e-mail,0
-0.1004633903503418,Pessoa Física RFB,idêntico / igual / mesmo que / sameAs,0
-0.08748173713684082,Porte da Empresa | Porte Empresarial | Porte,código do porte da empresa,0
-0.0801551342010498,Porte da Empresa | Porte Empresarial | Porte,valor de capital social,0
-0.08429837226867676,Porte da Empresa | Porte Empresarial | Porte,Capital Social,0
-0.10483145713806152,Porte da Empresa | Porte Empresarial | Porte,código de porte,0
-0.25430965423583984,Processo,data de acordão,100
-0.09131026268005371,Processo,data de origem,0
-0.09998869895935059,Processo,data de publicação,0
-0.2933197021484375,Processo,data de trânsito julgado,100
-0.1877281665802002,Processo,deliberação,100
-0.08753538131713867,Processo,origem da informação,0
-0.5929131507873535,Processo,tem fornecedor restrito,100
-1.9896912574768066,Processo de Baixa,tem razão de situação cadastral,0
-0.18099331855773926,Processo de Baixa,data situação cadastral,0
-0.09641480445861816,Processo de Baixa,data da situação cadastral,0
-0.09870672225952148,Processo de Baixa,idêntico / igual / mesmo que / sameAs,0
-0.09486699104309082,Processo de Suspensão,tem razão de situação cadastral,0
-0.08675050735473633,Processo de Suspensão,data situação cadastral,0
-0.0836036205291748,Processo de Suspensão,data da situação cadastral,0
-0.0952303409576416,Processo de Suspensão,idêntico / igual / mesmo que / sameAs,0
-0.08054304122924805,Produto,cean tributário,0
-0.0806126594543457,Produto,cest,0
-0.08492684364318848,Produto,cfop,0
-0.07954263687133789,Produto,código ean em barras,0
-0.07832884788513184,Produto,código do ncm,0
-0.08419227600097656,Produto,código do produto,0
-0.09052109718322754,Produto,descrição,0
-0.08247089385986328,Produto,informações adicionais,0
-0.07993960380554199,Produto,quantidade comercial,0
-0.09550738334655762,Produto,quantidade tributável,0
-0.09457945823669434,Produto,unidade comercial,0
-0.09653520584106445,Produto,valor unitário,0
-0.09819722175598145,Produto,valor unitário de tributação,0
-0.09369063377380371,Protocolo,tem fonte cadastro,0
-0.08175134658813477,Protocolo,data da consulta anterior,0
-0.07869482040405273,Protocolo,data entidade registrada,0
-0.5025629997253418,Protocolo,protocolo dbe,100
-0.12183308601379395,Provedor,tem endereço,100
-2.4876325130462646,Provedor,CNPJ,100
-0.0954432487487793,Provedor,cnpj,100
-0.0758974552154541,Provedor,código de identificação do provedor,0
-0.13434815406799316,Provedor,inscrição estadual,100
-0.22650504112243652,Qualificação do Sócio ou Representante,código da qualificação,100
-0.08460164070129395,Qualificação do Sócio ou Representante,inscrição estadual,0
-0.09398221969604492,Qualificação do Sócio ou Representante,valor de participação,0
-0.0927419662475586,Razão | Motivo de Situação Cadastral,razão,0
-0.2568168640136719,Razão | Motivo de Situação Cadastral,código de razão da situação,100
-0.09971475601196289,Razão | Motivo de Situação Cadastral,código de razão da situação cadastral,0
-0.1044473648071289,Razão | Motivo de Situação Cadastral,data da baixa,0
-104.69035601615906,Realização de Atividade Econômica,atividade performada,100
-85.57905864715576,Realização de Atividade Econômica,início da atividade econômica,100
-0.4131348133087158,Realização de Atividade Econômica,término da atividade econômica,100
-138.54886317253113,Registro Desabilitado,excluído por,100
-37.80526876449585,Registro Desabilitado,incluido por,100
-0.12591838836669922,Registro Desabilitado,data fim de desabilitado,100
-0.10615086555480957,Registro Desabilitado,data início como desabilitado,100
-0.17683053016662598,Representante Legal,name,100
-0.10457777976989746,Representante Legal,nome,100
-0.527167558670044,Representante Legal,CNPJ,100
-0.22676563262939453,Representante Legal,cnpj,100
-2.8621163368225098,Representante Legal,CPF,100
-0.08615732192993164,Representante Legal,data início mandato,0
-0.1597886085510254,Representante Legal,telefone,100
-0.511909008026123,Representante Legal,idêntico / igual / mesmo que / sameAs,0
-1.9864585399627686,Representante Legal,e-mail,100
-2.0811164379119873,Representante Legal Físico,CPF,100
-0.09047770500183105,Representante Legal Físico,idêntico / igual / mesmo que / sameAs,0
-0.850886344909668,Representante Legal Físico,e-mail,100
-0.36705732345581055,Representante Legal Jurídico,CNPJ,100
-0.2223045825958252,Representante Legal Jurídico,cnpj,100
-0.6223464012145996,Representante Legal Jurídico,idêntico / igual / mesmo que / sameAs,0
-0.10283327102661133,Representante Legal Jurídico,e-mail,100
-0.18800830841064453,Sancionado,nome fantasia,100
-0.11651730537414551,Sancionado,razão social,100
-0.8293378353118896,Sancionado,tem sanção,100
-0.13754010200500488,Sancionado,CNPJ,100
-0.09734082221984863,Sancionado,cnpj,100
-0.10837721824645996,Sancionado,CPF,100
-0.09995603561401367,Sancionado,idêntico / igual / mesmo que / sameAs,0
-0.09753799438476562,Sanção,observação desabilitado,0
-3.0756585597991943,Sanção,tem órgão sancionador,100
-1.9842948913574219,Sanção,tem processo,100
-2.7997567653656006,Sanção,abrangência,100
-1.4168593883514404,Sanção,data final,100
-1.5449013710021973,Sanção,data de início,100
-1.477849006652832,Sanção,data de publicação,100
-2.314708709716797,Sanção,descrição da fundamentação,100
-0.7913861274719238,Sanção,detalhamento,100
-1.0676767826080322,Sanção,fundamentação,0
-2.243535041809082,Sanção,fundamentação legal,100
-1.8353374004364014,Sanção,observações,100
-1.831026315689087,Sanção,publicação,100
-0.08595681190490723,Sanção,tipo,0
-1.7874360084533691,Sanção,tem órgão,100
-1.4823431968688965,Seção CNAE,CNAE,100
-0.1431422233581543,Seção CNAE,Classificação Nacional de Atividades Econômicas,100
-0.17660856246948242,Seção CNAE,descrição da atividade econômica,100
-0.10134363174438477,Seção CNAE,idêntico / igual / mesmo que / sameAs,0
-0.08017778396606445,Situação Cadastral,descrição da situação,0
-0.0840904712677002,Situação Cadastral,tem baixa,0
-0.5774095058441162,Situação Cadastral,tem razão de situação cadastral,0
-0.3088088035583496,Situação Cadastral,data situação cadastral,100
-1.9745125770568848,Situação Cadastral,data da situação cadastral,100
-0.2372298240661621,Situação Cadastral,status de baixa,100
-0.4309420585632324,Situação Cadastral,código da situação cadastral,100
-0.3133549690246582,Situação Cadastral,situação cadastral,100
-0.07706165313720703,Situação Cadastral,idêntico / igual / mesmo que / sameAs,0
-0.06944990158081055,Situação Cadastral REDESIM,tem razão de situação cadastral,0
-0.10053372383117676,Situação Cadastral REDESIM,data situação cadastral,0
-0.07356810569763184,Situação Cadastral REDESIM,data da situação cadastral,0
-0.07595086097717285,Situação Cadastral REDESIM,idêntico / igual / mesmo que / sameAs,0
-0.08369851112365723,Situação Cadastral RFB,tem razão de situação cadastral,0
-0.07326316833496094,Situação Cadastral RFB,data situação cadastral,0
-0.06962776184082031,Situação Cadastral RFB,data da situação cadastral,0
-0.0779104232788086,Situação Cadastral RFB,idêntico / igual / mesmo que / sameAs,0
-0.07592058181762695,Situação Cadastral SEFAZ,tem razão de situação cadastral,0
-0.07640576362609863,Situação Cadastral SEFAZ,data situação cadastral,0
-0.0729975700378418,Situação Cadastral SEFAZ,data da situação cadastral,0
-2.8647608757019043,Situação Cadastral SEFAZ,idêntico / igual / mesmo que / sameAs,0
-0.08506989479064941,Situação Fiscal,descrição da situação,0
-0.08522701263427734,Situação Fiscal,tem razão desabilitado,0
-0.10414361953735352,Situação Fiscal,código de situação fiscal,0
-0.13069796562194824,Situação Fiscal,data da situação fiscal,100
-0.7461538314819336,Situação Fiscal,situação fiscal,100
-0.08388519287109375,Situação especial,descrição da situação,0
-0.137648344039917,Situação especial,descrição da situação especial,86
-0.1344614028930664,Situação especial,data de início da situação,86
-0.08461165428161621,Situação especial,data de início da situação especial,0
-34.29541802406311,Sociedade,qualificação do responsável,100
-1.452469825744629,Sociedade,tem profissional,100
-0.9633755683898926,Sociedade,qualificação do sócio,100
-6.511216640472412,Sociedade,tem qualificação representante,100
-0.7978410720825195,Sociedade,tem qualificação sócio,100
-0.1984548568725586,Sociedade,tem representante / tem representante legal,100
-5.585489749908447,Sociedade,tem representante / tem representante legal,100
-4.545822381973267,Sociedade,tem sócio,100
-0.15575051307678223,Sociedade,tem unidade fiscal,1
-0.771801233291626,Sociedade,tem usuário,100
-4.1252923011779785,Sociedade,data de entrada,100
-0.08265042304992676,Sociedade,data de início da sociedade,0
-0.8791148662567139,Sociedade,data de saída,100
-0.18239498138427734,Sociedade,fim de participação,0
-0.9387764930725098,Sociedade,início de participação,100
-1.1804523468017578,Sociedade,percentual de participação,100
-1.7119412422180176,Sociedade,valor de participação,100
-0.09126567840576172,Sociedade,idêntico / igual / mesmo que / sameAs,0
-0.9710638523101807,Sociedade Cadastro SEFAZ,qualificação do sócio,100
-3.0011117458343506,Sociedade Cadastro SEFAZ,tem qualificação sócio,100
-0.11353731155395508,Sociedade Cadastro SEFAZ,data de entrada,100
-0.12885618209838867,Sociedade Cadastro SEFAZ,data de início da sociedade,0
-0.2643923759460449,Sociedade Cadastro SEFAZ,qualificação do responsável,100
-0.3035545349121094,Sociedade Cadastro SEFAZ,tem qualificação representante,100
-0.09025740623474121,Sociedade Cadastro SEFAZ,tem representante / tem representante legal,0
-1.314115285873413,Sociedade Cadastro SEFAZ,tem representante / tem representante legal,100
-0.07396721839904785,Sociedade Cadastro SEFAZ,idêntico / igual / mesmo que / sameAs,0
-0.13720345497131348,Sociedade REDESIM,qualificação do sócio,0
-0.37238216400146484,Sociedade REDESIM,tem qualificação sócio,100
-0.7816882133483887,Sociedade REDESIM,data de entrada,100
-0.08928918838500977,Sociedade REDESIM,data de início da sociedade,0
-0.09623980522155762,Sociedade REDESIM,qualificação do responsável,0
-0.07633852958679199,Sociedade REDESIM,tem qualificação representante,0
-0.07874345779418945,Sociedade REDESIM,tem representante / tem representante legal,0
-2.3533847332000732,Sociedade REDESIM,tem representante / tem representante legal,100
-1.4199745655059814,Sociedade REDESIM,idêntico / igual / mesmo que / sameAs,0
-0.09773135185241699,Sociedade RFB,qualificação do sócio,0
-13.420505285263062,Sociedade RFB,tem qualificação sócio,100
-0.1887528896331787,Sociedade RFB,data de entrada,100
-0.08156466484069824,Sociedade RFB,data de início da sociedade,0
-0.07419109344482422,Sociedade RFB,qualificação do responsável,0
-0.09488821029663086,Sociedade RFB,tem qualificação representante,0
-0.10261344909667969,Sociedade RFB,tem representante / tem representante legal,100
-0.07430696487426758,Sociedade RFB,tem representante / tem representante legal,0
-0.10563445091247559,Sociedade RFB,idêntico / igual / mesmo que / sameAs,0
-0.40499258041381836,Sociedade com Pessoa Física,qualificação do sócio,100
-0.9012570381164551,Sociedade com Pessoa Física,tem qualificação sócio,100
-1.0008134841918945,Sociedade com Pessoa Física,data de entrada,100
-0.07626008987426758,Sociedade com Pessoa Física,data de início da sociedade,0
-0.45323896408081055,Sociedade com Pessoa Física,qualificação do responsável,100
-0.34830498695373535,Sociedade com Pessoa Física,tem qualificação representante,100
-0.1124577522277832,Sociedade com Pessoa Física,tem representante / tem representante legal,0
-2.941075086593628,Sociedade com Pessoa Física,tem representante / tem representante legal,100
-0.09400677680969238,Sociedade com Pessoa Física,idêntico / igual / mesmo que / sameAs,0
-0.20803236961364746,Sociedade com Pessoa Jurídica,qualificação do sócio,100
-0.23925399780273438,Sociedade com Pessoa Jurídica,tem qualificação sócio,100
-0.49958038330078125,Sociedade com Pessoa Jurídica,data de entrada,100
-0.08307123184204102,Sociedade com Pessoa Jurídica,data de início da sociedade,0
-0.22162365913391113,Sociedade com Pessoa Jurídica,qualificação do responsável,100
-0.9469449520111084,Sociedade com Pessoa Jurídica,tem qualificação representante,100
-0.49854278564453125,Sociedade com Pessoa Jurídica,tem representante / tem representante legal,100
-0.9406876564025879,Sociedade com Pessoa Jurídica,tem representante / tem representante legal,100
-0.08825349807739258,Sociedade com Pessoa Jurídica,idêntico / igual / mesmo que / sameAs,0
-0.08161044120788574,Solicitação,tem arquivo,0
-0.578167200088501,Solicitação,tem empresa,100
-0.48088812828063965,Solicitação,tem entidade integrada,100
-0.07957959175109863,Solicitação,tem fonte cadastro,0
-0.542290210723877,Solicitação,tem protocolo,100
-0.6442592144012451,Solicitação,tem status envio,100
-0.6011207103729248,Solicitação,tem tipo ato,100
-0.10379934310913086,Solicitação,aprovação da prefeitura,0
-0.26015162467956543,Solicitação,data de autenticação,100
-0.2484302520751953,Solicitação,data de sincronização,100
-0.2546355724334717,Solicitação,data de solicitação,100
-0.5953245162963867,Solicitação,deferimento,100
-0.590857744216919,Solicitação,envolve a sefaz,100
-0.6003174781799316,Solicitação,gera ruc,100
-0.584869384765625,Solicitação,inscrição trauf,100
-0.4682033061981201,Solicitação,protocolo dbe,100
-0.6095635890960693,Status da consistência,descrição,100
-0.278606653213501,Status de Envio,código de status envio,4
-1.0395941734313965,Status de similaridade,de endereço,100
-0.4113123416900635,Status de similaridade,grau de similaridade,100
-0.503751277923584,Status de similaridade,descrição,100
-0.5411531925201416,Subclasse CNAE,CNAE,100
-0.47988057136535645,Subclasse CNAE,Classificação Nacional de Atividades Econômicas,100
-2.4915523529052734,Subclasse CNAE,descrição da atividade econômica,100
-0.07781171798706055,Subclasse CNAE,idêntico / igual / mesmo que / sameAs,0
-0.09100961685180664,Suspensa,tem razão de situação cadastral,0
-0.08155441284179688,Suspensa,data situação cadastral,0
-0.07666707038879395,Suspensa,data da situação cadastral,0
-0.07608866691589355,Suspensa,idêntico / igual / mesmo que / sameAs,0
-0.06240439414978027,Suspensa de Ofício,tem razão de situação cadastral,0
-0.0725409984588623,Suspensa de Ofício,data situação cadastral,0
-0.0786128044128418,Suspensa de Ofício,data da situação cadastral,0
-0.09093523025512695,Suspensa de Ofício,idêntico / igual / mesmo que / sameAs,0
-0.09457015991210938,Sócio,é sócio de,0
-0.07276749610900879,Sócio,tem empresa,0
-0.07438397407531738,Sócio,tem mãe,0
-0.08092308044433594,Sócio,tem pai,0
-0.42885398864746094,Sócio,qualificação do sócio,100
-0.31610584259033203,Sócio,tem qualificação sócio,100
-0.08648204803466797,Sócio,tem situação funcional,0
-0.08225464820861816,Sócio,tem solicitação,0
-0.5140945911407471,Sócio,cnpj cpf,100
-0.0859212875366211,Sócio,gerente,0
-0.10468769073486328,Sócio,inscrição estadual,0
-0.33214807510375977,Sócio,percentual de participação,100
-0.09575295448303223,Sócio,idêntico / igual / mesmo que / sameAs,0
-0.10160636901855469,Sócio Cadastro SEFAZ,idêntico / igual / mesmo que / sameAs,0
-0.0883030891418457,Sócio REDESIM,idêntico / igual / mesmo que / sameAs,0
-0.09852409362792969,Sócio RFB,idêntico / igual / mesmo que / sameAs,0
-0.0808401107788086,Tipo Ato,tem solicitação,0
-0.0773921012878418,Tipo Ato,código do ato,0
-0.264538049697876,Tipo Ato,código tipo do ato,3
-0.3645908832550049,Tipo de Contribuição,código tipo de contribuição,4
-0.3052983283996582,Tipo de Contribuição,descrição,4
-0.26384639739990234,Tipo de Propriedade,código tipo de propriedade,11
-0.0909876823425293,Tipo de Regime Tributário,código de regime tributário,0
-3.032360315322876,Tipo de Regime Tributário,código tipo de regime tributário,8
-0.08178329467773438,Tipo de Regime Tributário,descrição do regime,0
-0.07802152633666992,Tipo de Regime Tributário,nome do regime,0
-0.5759317874908447,Tipo do Estabelecimento,código tipo de estabelecimento,13
-0.3644075393676758,Tipo do Estabelecimento,tipo da unidade,11
-0.17373919486999512,Unidade Consumo,tem consumidor,100
-0.19724416732788086,Unidade Consumo,tem endereço,100
-0.19164013862609863,Unidade Consumo,tem provedor,100
-0.0707404613494873,Unidade Consumo,identificador de uma pessoa,0
-0.08215093612670898,Unidade Consumo,data primária,0
-0.07043123245239258,Unidade Consumo,data última,0
-0.07739400863647461,Unidade Consumo,identificador da unidade de consumo,0
-0.07484126091003418,Unidade Consumo,idêntico / igual / mesmo que / sameAs,0
-0.12245464324951172,Unidade Consumo Comunicação,tipo assinante,100
-0.1594548225402832,Unidade Consumo Comunicação,tipo utilização,100
-0.09375309944152832,Unidade Consumo Comunicação,idêntico / igual / mesmo que / sameAs,0
-0.07498860359191895,Unidade Consumo Elétrica,tem classe consumo,0
-0.07352781295776367,Unidade Consumo Elétrica,modelo,0
-0.1684870719909668,Unidade Consumo Elétrica,classe consumo,100
-0.20612740516662598,Unidade Consumo Elétrica,fase,100
-0.8548192977905273,Unidade Consumo Elétrica,grupo de trensão,100
-0.06851887702941895,Unidade Consumo Elétrica,idêntico / igual / mesmo que / sameAs,0
-0.1567847728729248,Unidade Consumo Telecomunicação,tipo assinante,100
-0.21555328369140625,Unidade Consumo Telecomunicação,tipo utilização,100
-0.10056638717651367,Unidade Consumo Telecomunicação,idêntico / igual / mesmo que / sameAs,0
-0.12544012069702148,Unidade Federativa | Estado,abreviação da unidade federativa,27
-0.12218022346496582,Unidade Federativa | Estado,código ibge,27
-0.08715605735778809,Unidade Federativa | Estado,estado,27
-0.07700252532958984,Unidade Federativa | Estado,latitude,0
-2.5545616149902344,Unidade Federativa | Estado,longitude,0
-0.07990479469299316,Unidade Federativa | Estado,e parte de,0
-0.08431172370910645,Unidade Federativa | Estado,idêntico / igual / mesmo que / sameAs,0
-0.12860631942749023,Unidade Fiscal,nome da unidade fiscal,8
-3.2789249420166016,Usuário,nome do usuário,100
-2.4523394107818604,Órgão,tem estado | tem unidade federativa,100
-0.0955357551574707,Órgão,complemento,100
-0.09494757652282715,Órgão,complemento do endereço,100
-0.07836532592773438,Órgão,qualificação do responsável,0
-0.08287787437438965,Órgão,tem matriz,0
-0.08477139472961426,Órgão,cnpj raíz,0
-0.0812828540802002,Órgão,razão social,0
-0.08287978172302246,Órgão,e-mail,0
-0.08661985397338867,Órgão,idêntico / igual / mesmo que / sameAs,0
-0.19164156913757324,Evento,tem solicitação,100
-1.0129492282867432,Evento,código do evento,86
-0.7337110042572021,Evento,descrição do evento,66
+0.06707882881164551,Acórdão,data final,0
+0.21049737930297852,Agente,name,100
+0.14303159713745117,Agente,nome,100
+0.6429851055145264,Agente,tem solicitação,0
+0.31336355209350586,Agente,tem tipo de contribuição,100
+0.40820884704589844,Agente,cnpj cpf,100
+0.06901931762695312,Agente,cpf ou cnpj,0
+0.10622215270996094,Agente,identificador de uma pessoa,100
+0.12461256980895996,Agente,É um estrangeiro?,100
+0.07868719100952148,Agente,número de contato,0
+0.06688690185546875,Agente,contact number,0
+0.06877803802490234,Agente,número de fax,0
+0.0694575309753418,Agente,phone number,0
+0.06865286827087402,Agente,número de telefone,0
+0.0700531005859375,Agente,telefone1,0
+0.06779837608337402,Agente,telefone2,0
+0.11106991767883301,Agente,e-mail,100
+0.1429157257080078,Arma,código da arma,100
+0.15405654907226562,Arma,descrição completa,100
+0.1409914493560791,Arma,número do cano,100
+0.23862981796264648,Arma,número de série,100
+0.36763596534729004,Arma,tipo de arma,100
+0.06481766700744629,Arquivo,tem status envio,0
+0.0747218132019043,Arquivo,categoria,100
+0.07094216346740723,Arquivo,data do arquivo,100
+0.07632637023925781,Arquivo,data de desmembramento,100
+0.07067537307739258,Arquivo,data de geração do arquivo,0
+0.08252692222595215,Arquivo,data de processamento,100
+0.07323503494262695,Arquivo,data de recepção,100
+0.07810544967651367,Arquivo,hash,100
+0.0761423110961914,Arquivo,inscrição,100
+0.06642317771911621,Arquivo,nome arquivo,0
+0.0677945613861084,Arquivo,protocolo,0
+0.07644939422607422,Arquivo,protocolo dbe,100
+0.07368230819702148,Arquivo,versão do arquivo,100
+0.06442046165466309,Ativa,tem razão de situação cadastral,0
+0.06844401359558105,Ativa,data situação cadastral,0
+0.06406164169311523,Ativa,data da situação cadastral,0
+0.06775498390197754,Ativa,idêntico / igual / mesmo que / sameAs,0
+1.0275156497955322,Ativa,tem razão de situação cadastral,2
+0.24953031539916992,Ativa,data situação cadastral,100
+0.23313379287719727,Ativa,data da situação cadastral,100
+0.0722503662109375,Ativa,idêntico / igual / mesmo que / sameAs,0
+0.5596563816070557,Atividade Econômica,descrição da atividade econômica,100
+0.49669671058654785,Atividade Econômica,mais geral,100
+0.06659555435180664,Atividade Econômica,mais específico,0
+0.8101155757904053,Atividade Econômica,CNAE,100
+0.5579962730407715,Atividade Econômica,Classificação Nacional de Atividades Econômicas,100
+0.7401280403137207,Atividade Econômica,CNAE Completo,100
+0.6343867778778076,Atividade Econômica,CNAE Formatado,100
+0.07403707504272461,Atividade Econômica,idêntico / igual / mesmo que / sameAs,0
+0.6093173027038574,Bairro,tem cidade,100
+0.10138535499572754,Bairro,bairro,100
+0.06042814254760742,Bairro,e parte de,0
+0.06870794296264648,Bairro,tem parte,0
+0.06452679634094238,Bairro,latitude,0
+0.0680239200592041,Bairro,longitude,0
+0.06595039367675781,Bairro,idêntico / igual / mesmo que / sameAs,0
+0.06516504287719727,Baixa de Ofício,tem razão de situação cadastral,0
+0.0688633918762207,Baixa de Ofício,data situação cadastral,0
+0.06687068939208984,Baixa de Ofício,data da situação cadastral,0
+0.0682075023651123,Baixa de Ofício,idêntico / igual / mesmo que / sameAs,0
+0.13671207427978516,Baixa de Ofício,tem razão de situação cadastral,0
+0.2034285068511963,Baixa de Ofício,data situação cadastral,100
+0.17651581764221191,Baixa de Ofício,data da situação cadastral,100
+0.06892561912536621,Baixa de Ofício,idêntico / igual / mesmo que / sameAs,0
+0.06417083740234375,Baixada,tem razão de situação cadastral,0
+0.06328439712524414,Baixada,data situação cadastral,0
+0.06657123565673828,Baixada,data da situação cadastral,0
+0.06805753707885742,Baixada,idêntico / igual / mesmo que / sameAs,0
+15.913835763931274,Baixada,tem razão de situação cadastral,100
+0.50571608543396,Baixada,data situação cadastral,100
+0.09792327880859375,Baixada,data da situação cadastral,100
+0.07895421981811523,Baixada,idêntico / igual / mesmo que / sameAs,0
+0.8505165576934814,CEP do Logradouro,complemento,100
+0.5458357334136963,CEP do Logradouro,complemento do endereço,100
+1.5672166347503662,CEP do Logradouro,latitude,100
+1.6497924327850342,CEP do Logradouro,longitude,100
+0.06896185874938965,CEP do Logradouro,latitude,0
+0.07428669929504395,CEP do Logradouro,longitude,0
+0.12473773956298828,CEP do Logradouro,idêntico / igual / mesmo que / sameAs,0
+0.08053135871887207,Cancelada,tem razão de situação cadastral,0
+0.07140254974365234,Cancelada,data situação cadastral,0
+0.06920123100280762,Cancelada,data da situação cadastral,0
+0.07375955581665039,Cancelada,idêntico / igual / mesmo que / sameAs,0
+0.14115285873413086,Cancelada,tem razão de situação cadastral,0
+0.12131762504577637,Cancelada,data situação cadastral,100
+0.10071229934692383,Cancelada,data da situação cadastral,100
+0.07664227485656738,Cancelada,idêntico / igual / mesmo que / sameAs,0
+0.1218562126159668,Caso da consistência,grau de consistência,17
+1.452531099319458,Cidade | Município,tem estado | tem unidade federativa,100
+1.143815040588379,Cidade | Município,cep,100
+1.4218084812164307,Cidade | Município,cidade,100
+1.7731995582580566,Cidade | Município,cidade,100
+1.4089899063110352,Cidade | Município,código da cidade,100
+1.4415485858917236,Cidade | Município,código do município,100
+0.7918870449066162,Cidade | Município,código ibge,100
+0.07836556434631348,Cidade | Município,e parte de,0
+0.07330060005187988,Cidade | Município,latitude,0
+0.06976580619812012,Cidade | Município,longitude,0
+0.08086729049682617,Cidade | Município,idêntico / igual / mesmo que / sameAs,0
+0.14843130111694336,Classe CNAE,CNAE,100
+0.11809635162353516,Classe CNAE,Classificação Nacional de Atividades Econômicas,100
+0.12349224090576172,Classe CNAE,descrição da atividade econômica,100
+0.07722878456115723,Classe CNAE,idêntico / igual / mesmo que / sameAs,0
+0.28242993354797363,Combustível,tem uf de consumo,100
+0.18025970458984375,Combustível,código de autorização,100
+0.5731315612792969,Combustível,código do combustível,100
+0.17741942405700684,Combustível,código do produto anp,100
+15.83873462677002,Combustível,descrição anp,100
+17.52883815765381,Combustível,percentual de gás importado,100
+16.18901491165161,Combustível,percentual de gás natural,100
+19.810796976089478,Combustível,percentual de glp,100
+0.18352484703063965,Combustível,quantidade de combustível faturada,100
+9.114909887313843,Combustível,valor de partida,100
+0.12413501739501953,Compra Pública,tem ente público,100
+0.08307766914367676,Compra Pública,tem fornecedor,100
+1200.0238468647003,Compra Pública,tem item,-1
+0.2693214416503906,Compra Pública,contrato,100
+0.12129616737365723,Compra Pública,nota de empenho,100
+0.11481618881225586,Compra Pública,número de pedido,100
+0.07641005516052246,Compra Pública,idêntico / igual / mesmo que / sameAs,0
+0.0686943531036377,Consumidor,tem endereço,0
+0.11494016647338867,Consumidor,CNPJ,100
+0.08027505874633789,Consumidor,cnpj,100
+0.07779479026794434,Consumidor,CPF,100
+0.14876103401184082,Consumidor,inscrição estadual,100
+0.07445216178894043,Contador,classificação crc,0
+1.6418304443359375,Contador,CPF,100
+0.08170080184936523,Contador,crc data de registro,0
+0.13636088371276855,Contador,é contador,100
+0.07380127906799316,Contador,código da qualificação,0
+0.08348417282104492,Contribuinte,tem fonte cadastro,0
+0.08501458168029785,Contribuinte,tem nacionalidade,0
+0.08119559288024902,Contribuinte,tem usuário,0
+0.06990790367126465,Contribuinte,código tipo de contribuinte,0
+0.07942962646484375,Contribuinte,data inclusão do contribuinte,0
+0.0928955078125,Contribuinte,inscrição estadual,0
+0.19001340866088867,Contribuinte Geral,tem tipo de regime tributário,100
+0.6397316455841064,Contribuinte ICMS,cnpj cpf,100
+0.3175511360168457,Contribuinte ICMS,inscrição estadual,100
+0.5626785755157471,Contribuinte ICMS,fonte,100
+1.1286988258361816,Contribuinte ICMS,nome contribuinte ICMS,0
+0.07709574699401855,Contribuinte IPVA,cnpj cpf,0
+0.12837481498718262,Contribuinte IPVA,inscrição estadual,100
+0.11445903778076172,Contribuinte IPVA,fonte,100
+0.0640096664428711,Contribuinte IPVA,nome de contribuinte IPVA,0
+0.23099923133850098,Divisão CNAE,CNAE,100
+0.09994196891784668,Divisão CNAE,Classificação Nacional de Atividades Econômicas,100
+0.11377406120300293,Divisão CNAE,descrição da atividade econômica,100
+0.07053399085998535,Divisão CNAE,idêntico / igual / mesmo que / sameAs,0
+0.42137932777404785,Documento,código do documento,7
+0.325977087020874,Documento,orgão emissor do documento,0
+0.3826618194580078,Documento,identidade,100
+0.3370821475982666,Documento,número do órgão,100
+0.07560944557189941,Documento,tipo do documento,0
+6.618603229522705,Documento Fiscal,tem consumidor,100
+0.06655550003051758,Documento Fiscal,tem destinatário,0
+0.09994626045227051,Documento Fiscal,tem item,0
+0.08027529716491699,Documento Fiscal,tem provedor,0
+1.9559009075164795,Documento Fiscal,tem unidade consumo,100
+2.4989912509918213,Documento Fiscal,ano de apuração do documento fiscal,100
+1.9422030448913574,Documento Fiscal,código de autenticação,100
+0.3517184257507324,Documento Fiscal,código do documento,100
+1.9420781135559082,Documento Fiscal,data de emissão,100
+2.087552070617676,Documento Fiscal,mês apuração,100
+1.8048532009124756,Documento Fiscal,modelo,100
+1.8973541259765625,Documento Fiscal,número do documento,100
+0.07104730606079102,Documento Fiscal,número do documento fiscal,0
+1.8901519775390625,Documento Fiscal,série,100
+0.06521105766296387,Documento Fiscal,situação,0
+0.1800389289855957,Documento Suplementar,tem arquivo,100
+0.1376323699951172,Documento Suplementar,tem protocolo,100
+0.21847772598266602,Documento Suplementar,código suframa,0
+0.8424484729766846,Documento Suplementar,data de validade,100
+0.12961316108703613,Documento Suplementar,descrição,0
+0.0681920051574707,Documento Suplementar,fim da validade,0
+0.13342499732971191,Documento Suplementar,modelo,100
+0.13350939750671387,Documento Suplementar,número do documento,100
+0.15167784690856934,Documento Suplementar,observação,100
+0.3254430294036865,Emancipado,motivo emancipado,0
+0.07030534744262695,Empresa Holding,qualificação do responsável,0
+0.21884441375732422,Empresa Holding,tem matriz,100
+0.2721588611602783,Empresa Holding,cnpj raíz,100
+0.2410597801208496,Empresa Holding,razão social,100
+0.23065805435180664,Empresa Holding,idêntico / igual / mesmo que / sameAs,0
+0.09294462203979492,Empresa Holding,e-mail,100
+0.3869919776916504,Empresa | Organização | Pessoa Jurídica,razão social,100
+0.07406091690063477,Empresa | Organização | Pessoa Jurídica,Faz parte do Grupo,0
+1010.4428889751434,Empresa | Organização | Pessoa Jurídica,opção por simples,100
+1.6456785202026367,Empresa | Organização | Pessoa Jurídica,tem_deposito,0
+3.1822431087493896,Empresa | Organização | Pessoa Jurídica,tem estabelecimento,100
+0.3233804702758789,Empresa | Organização | Pessoa Jurídica,tem filial,100
+0.34430599212646484,Empresa | Organização | Pessoa Jurídica,tem matriz,100
+0.8983097076416016,Empresa | Organização | Pessoa Jurídica,tem natureza legal,100
+0.07175898551940918,Empresa | Organização | Pessoa Jurídica,tem opção pelo SIMPLES,0
+1.425729513168335,Empresa | Organização | Pessoa Jurídica,tem porte empresarial,100
+0.06593966484069824,Empresa | Organização | Pessoa Jurídica,tem regime de pagamento,0
+0.0624082088470459,Empresa | Organização | Pessoa Jurídica,tem regime tributário,0
+0.13680672645568848,Empresa | Organização | Pessoa Jurídica,tem situação especial,86
+1.1080842018127441,Empresa | Organização | Pessoa Jurídica,tem sociedade,100
+2.574226140975952,Empresa | Organização | Pessoa Jurídica,tem solicitação,100
+0.6716609001159668,Empresa | Organização | Pessoa Jurídica,tem usuário,100
+0.0708611011505127,Empresa | Organização | Pessoa Jurídica,ligado à,0
+0.3039710521697998,Empresa | Organização | Pessoa Jurídica,CNPJ,100
+0.12281656265258789,Empresa | Organização | Pessoa Jurídica,cnpj,100
+0.898399829864502,Empresa | Organização | Pessoa Jurídica,cnpj raíz,100
+0.49137282371520996,Empresa | Organização | Pessoa Jurídica,data de assinatura,100
+0.4733245372772217,Empresa | Organização | Pessoa Jurídica,data atualização,100
+0.582852840423584,Empresa | Organização | Pessoa Jurídica,data de constituição,100
+0.2943885326385498,Empresa | Organização | Pessoa Jurídica,data de fechamento fiscal,100
+0.07381558418273926,Empresa | Organização | Pessoa Jurídica,é MEI?,0
+0.06047320365905762,Empresa | Organização | Pessoa Jurídica,empresa é um Microempreendedor Individual (MEI)?,0
+0.06976103782653809,Empresa | Organização | Pessoa Jurídica,número de contato,0
+0.06494545936584473,Empresa | Organização | Pessoa Jurídica,contact number,0
+1.2867443561553955,Empresa | Organização | Pessoa Jurídica,nire,100
+0.0729670524597168,Empresa | Organização | Pessoa Jurídica,nire anterior,0
+0.07171154022216797,Empresa | Organização | Pessoa Jurídica,número de fax,0
+0.07530069351196289,Empresa | Organização | Pessoa Jurídica,phone number,0
+0.07265591621398926,Empresa | Organização | Pessoa Jurídica,número de telefone,0
+0.13144874572753906,Empresa | Organização | Pessoa Jurídica,siglas,12
+0.07049179077148438,Empresa | Organização | Pessoa Jurídica,telefone1,0
+0.0658407211303711,Empresa | Organização | Pessoa Jurídica,telefone2,0
+0.8336350917816162,Empresa | Organização | Pessoa Jurídica,valor de capital social,100
+0.6478300094604492,Empresa | Organização | Pessoa Jurídica,Capital Social,100
+0.2919142246246338,Empresa | Organização | Pessoa Jurídica,valor estimado,0
+0.6885190010070801,Empresa | Organização | Pessoa Jurídica,data incorporação,100
+0.07090568542480469,Empresa | Organização | Pessoa Jurídica,qualificação do responsável,0
+0.25282931327819824,Empresa | Organização | Pessoa Jurídica,e-mail,100
+6.310174226760864,Empresa | Organização | Pessoa Jurídica,idêntico / igual / mesmo que / sameAs,100
+0.06351351737976074,Empresa | Organização | Pessoa Jurídica REDESIM,qualificação do responsável,0
+0.5018651485443115,Empresa | Organização | Pessoa Jurídica REDESIM,tem matriz,100
+0.643975019454956,Empresa | Organização | Pessoa Jurídica REDESIM,cnpj raíz,100
+1.1546783447265625,Empresa | Organização | Pessoa Jurídica REDESIM,razão social,100
+0.508352518081665,Empresa | Organização | Pessoa Jurídica REDESIM,e-mail,0
+0.8161101341247559,Empresa | Organização | Pessoa Jurídica REDESIM,idêntico / igual / mesmo que / sameAs,100
+0.06731939315795898,Empresa | Organização | Pessoa Jurídica RFB,qualificação do responsável,0
+981.421229839325,Empresa | Organização | Pessoa Jurídica RFB,tem matriz,100
+410.64484667778015,Empresa | Organização | Pessoa Jurídica RFB,cnpj raíz,100
+1200.0110239982605,Empresa | Organização | Pessoa Jurídica RFB,razão social,-1
+0.1801767349243164,Empresa | Organização | Pessoa Jurídica RFB,e-mail,0
+13.690763235092163,Empresa | Organização | Pessoa Jurídica RFB,idêntico / igual / mesmo que / sameAs,100
+0.06396055221557617,Empresa | Organização | Pessoa Jurídica SEFAZ,qualificação do responsável,0
+0.14142203330993652,Empresa | Organização | Pessoa Jurídica SEFAZ,tem matriz,100
+0.4372272491455078,Empresa | Organização | Pessoa Jurídica SEFAZ,cnpj raíz,100
+0.5288999080657959,Empresa | Organização | Pessoa Jurídica SEFAZ,razão social,100
+0.13558530807495117,Empresa | Organização | Pessoa Jurídica SEFAZ,e-mail,0
+5.7786784172058105,Empresa | Organização | Pessoa Jurídica SEFAZ,idêntico / igual / mesmo que / sameAs,100
+0.23684024810791016,Endereço,tem bairro,100
+0.23373770713806152,Endereço,tem cidade,100
+0.17113566398620605,Endereço,tem estado | tem unidade federativa,100
+0.1441333293914795,Endereço,tem logradouro,100
+0.1201629638671875,Endereço,tem pais,100
+0.2666809558868408,Endereço,caixa postal do endereço,1
+0.8209469318389893,Endereço,cep caixa postal,0
+0.22374415397644043,Endereço,cidade,100
+0.12104225158691406,Endereço,cidade,100
+0.06985640525817871,Endereço,código da zona postal,0
+0.15147757530212402,Endereço,complemento,100
+0.11289262771606445,Endereço,complemento do endereço,100
+0.19612979888916016,Endereço,estado,100
+0.2027890682220459,Endereço,logradouro,100
+0.13306617736816406,Endereço,logradouro,100
+0.2238750457763672,Endereço,número,100
+0.12690019607543945,Endereço,número,100
+0.06857180595397949,Endereço,número do endereço,0
+0.07636809349060059,Endereço,referência,100
+0.24357008934020996,Endereço,CEP,100
+0.13118505477905273,Endereço,cep,100
+0.0656285285949707,Endereço,CEP,0
+0.23834466934204102,Endereço,tem consistência com os correios,100
+0.38602137565612793,Endereço,tem similaridade,100
+0.07845425605773926,Endereço,idêntico / igual / mesmo que / sameAs,0
+0.06580638885498047,Endereço C115,tem consistência com os correios,0
+0.06965517997741699,Endereço C115,tem similaridade,0
+0.06191897392272949,Endereço C115,cidade,0
+0.062258243560791016,Endereço C115,cidade,0
+0.06137847900390625,Endereço C115,estado,0
+0.05984377861022949,Endereço C115,logradouro,0
+0.05821108818054199,Endereço C115,logradouro,0
+0.059056758880615234,Endereço C115,número,0
+0.09410429000854492,Endereço C115,número,0
+0.06176638603210449,Endereço C115,número do endereço,0
+0.06684088706970215,Endereço C115,CEP,0
+0.06106996536254883,Endereço C115,cep,0
+0.059574127197265625,Endereço C115,idêntico / igual / mesmo que / sameAs,0
+0.05826306343078613,Endereço C115,tem consistência com os correios,0
+0.058217525482177734,Endereço C115,tem similaridade,0
+0.05903768539428711,Endereço C115,cidade,0
+0.05685067176818848,Endereço C115,cidade,0
+0.06227540969848633,Endereço C115,estado,0
+0.05984663963317871,Endereço C115,logradouro,0
+0.057938337326049805,Endereço C115,logradouro,0
+0.13683652877807617,Endereço C115,número,100
+0.12492489814758301,Endereço C115,número,100
+0.06800603866577148,Endereço C115,número do endereço,0
+0.1491105556488037,Endereço C115,CEP,100
+0.1331768035888672,Endereço C115,cep,100
+0.06876754760742188,Endereço C115,idêntico / igual / mesmo que / sameAs,0
+0.0689992904663086,Endereço C115 Comunicação,tem consistência com os correios,0
+0.06383037567138672,Endereço C115 Comunicação,tem similaridade,0
+0.06426763534545898,Endereço C115 Comunicação,cidade,0
+0.06283402442932129,Endereço C115 Comunicação,cidade,0
+0.06305861473083496,Endereço C115 Comunicação,estado,0
+0.06312179565429688,Endereço C115 Comunicação,logradouro,0
+0.06034564971923828,Endereço C115 Comunicação,logradouro,0
+0.059758663177490234,Endereço C115 Comunicação,número,0
+0.06173849105834961,Endereço C115 Comunicação,número,0
+0.06149029731750488,Endereço C115 Comunicação,número do endereço,0
+0.06314730644226074,Endereço C115 Comunicação,CEP,0
+0.06017947196960449,Endereço C115 Comunicação,cep,0
+0.059874534606933594,Endereço C115 Comunicação,idêntico / igual / mesmo que / sameAs,0
+0.0635077953338623,Endereço C115 Energia,tem consistência com os correios,0
+0.06430315971374512,Endereço C115 Energia,tem similaridade,0
+0.07306194305419922,Endereço C115 Energia,cidade,0
+0.06815648078918457,Endereço C115 Energia,cidade,0
+0.06881284713745117,Endereço C115 Energia,estado,0
+0.06750297546386719,Endereço C115 Energia,logradouro,0
+0.06948637962341309,Endereço C115 Energia,logradouro,0
+0.07107877731323242,Endereço C115 Energia,número,0
+0.07049393653869629,Endereço C115 Energia,número,0
+0.06912708282470703,Endereço C115 Energia,número do endereço,0
+0.06739592552185059,Endereço C115 Energia,CEP,0
+0.06102585792541504,Endereço C115 Energia,cep,0
+0.05902910232543945,Endereço C115 Energia,idêntico / igual / mesmo que / sameAs,0
+0.06190180778503418,Endereço C115 Telecomunicação,tem consistência com os correios,0
+0.0611724853515625,Endereço C115 Telecomunicação,tem similaridade,0
+0.06475567817687988,Endereço C115 Telecomunicação,cidade,0
+0.06541967391967773,Endereço C115 Telecomunicação,cidade,0
+0.06052899360656738,Endereço C115 Telecomunicação,estado,0
+0.06328701972961426,Endereço C115 Telecomunicação,logradouro,0
+0.06070423126220703,Endereço C115 Telecomunicação,logradouro,0
+0.06877756118774414,Endereço C115 Telecomunicação,número,0
+0.06490564346313477,Endereço C115 Telecomunicação,número,0
+0.07041430473327637,Endereço C115 Telecomunicação,número do endereço,0
+0.07069277763366699,Endereço C115 Telecomunicação,CEP,0
+0.06151533126831055,Endereço C115 Telecomunicação,cep,0
+0.06402730941772461,Endereço C115 Telecomunicação,idêntico / igual / mesmo que / sameAs,0
+0.06504607200622559,Endereço Cadastro Sefaz,tem consistência com os correios,0
+0.06371474266052246,Endereço Cadastro Sefaz,tem similaridade,0
+0.06509947776794434,Endereço Cadastro Sefaz,cidade,0
+0.09611392021179199,Endereço Cadastro Sefaz,cidade,0
+0.06610417366027832,Endereço Cadastro Sefaz,estado,0
+0.06794548034667969,Endereço Cadastro Sefaz,logradouro,0
+0.06118416786193848,Endereço Cadastro Sefaz,logradouro,0
+0.05984830856323242,Endereço Cadastro Sefaz,número,0
+0.05911445617675781,Endereço Cadastro Sefaz,número,0
+0.0685880184173584,Endereço Cadastro Sefaz,número do endereço,0
+0.06479144096374512,Endereço Cadastro Sefaz,CEP,0
+0.06761837005615234,Endereço Cadastro Sefaz,cep,0
+0.06581330299377441,Endereço Cadastro Sefaz,idêntico / igual / mesmo que / sameAs,0
+0.41113877296447754,Endereço Cadastro da SEFAZ,tem consistência com os correios,100
+0.3341550827026367,Endereço Cadastro da SEFAZ,tem similaridade,100
+0.06677007675170898,Endereço Cadastro da SEFAZ,cidade,0
+0.06418108940124512,Endereço Cadastro da SEFAZ,cidade,0
+0.06586503982543945,Endereço Cadastro da SEFAZ,estado,0
+0.06630945205688477,Endereço Cadastro da SEFAZ,logradouro,0
+0.06488966941833496,Endereço Cadastro da SEFAZ,logradouro,0
+0.07382988929748535,Endereço Cadastro da SEFAZ,número,100
+0.06693863868713379,Endereço Cadastro da SEFAZ,número,100
+0.0604398250579834,Endereço Cadastro da SEFAZ,número do endereço,0
+0.06635260581970215,Endereço Cadastro da SEFAZ,CEP,100
+0.06122732162475586,Endereço Cadastro da SEFAZ,cep,100
+0.07108902931213379,Endereço Cadastro da SEFAZ,idêntico / igual / mesmo que / sameAs,0
+0.07079148292541504,Endereço NFE,tem consistência com os correios,0
+0.06313753128051758,Endereço NFE,tem similaridade,0
+0.06824159622192383,Endereço NFE,cidade,0
+0.05928540229797363,Endereço NFE,cidade,0
+0.05969429016113281,Endereço NFE,estado,0
+0.05746006965637207,Endereço NFE,logradouro,0
+0.05820870399475098,Endereço NFE,logradouro,0
+0.05685591697692871,Endereço NFE,número,0
+0.058716773986816406,Endereço NFE,número,0
+0.06134390830993652,Endereço NFE,número do endereço,0
+0.06584024429321289,Endereço NFE,CEP,0
+0.059096574783325195,Endereço NFE,cep,0
+0.06363129615783691,Endereço NFE,idêntico / igual / mesmo que / sameAs,0
+0.10371160507202148,Endereço NFE,tem consistência com os correios,100
+0.12951087951660156,Endereço NFE,tem similaridade,100
+0.12769865989685059,Endereço NFE,cidade,100
+0.08120107650756836,Endereço NFE,cidade,100
+0.13153910636901855,Endereço NFE,estado,100
+0.11934065818786621,Endereço NFE,logradouro,100
+0.08117246627807617,Endereço NFE,logradouro,100
+0.12701892852783203,Endereço NFE,número,100
+0.08542633056640625,Endereço NFE,número,100
+0.06877326965332031,Endereço NFE,número do endereço,0
+0.12376952171325684,Endereço NFE,CEP,100
+0.08829855918884277,Endereço NFE,cep,100
+0.07005167007446289,Endereço NFE,idêntico / igual / mesmo que / sameAs,0
+0.06703567504882812,Endereço REDESIM,tem consistência com os correios,0
+0.07100987434387207,Endereço REDESIM,tem similaridade,0
+0.0704965591430664,Endereço REDESIM,cidade,0
+0.06924867630004883,Endereço REDESIM,cidade,0
+0.06802725791931152,Endereço REDESIM,estado,0
+0.07108855247497559,Endereço REDESIM,logradouro,0
+0.06978154182434082,Endereço REDESIM,logradouro,0
+0.07047224044799805,Endereço REDESIM,número,0
+0.0704045295715332,Endereço REDESIM,número,0
+0.06610512733459473,Endereço REDESIM,número do endereço,0
+0.06675529479980469,Endereço REDESIM,CEP,0
+0.06804847717285156,Endereço REDESIM,cep,0
+0.06683897972106934,Endereço REDESIM,idêntico / igual / mesmo que / sameAs,0
+1.1897308826446533,Endereço REDESIM,tem consistência com os correios,100
+2.4297306537628174,Endereço REDESIM,tem similaridade,100
+1.3683512210845947,Endereço REDESIM,cidade,100
+1.0566926002502441,Endereço REDESIM,cidade,100
+1.4375741481781006,Endereço REDESIM,estado,100
+1.1452929973602295,Endereço REDESIM,logradouro,100
+1.1311671733856201,Endereço REDESIM,logradouro,100
+3.5032646656036377,Endereço REDESIM,número,100
+3.4860668182373047,Endereço REDESIM,número,100
+0.06883454322814941,Endereço REDESIM,número do endereço,0
+3.269421339035034,Endereço REDESIM,CEP,100
+3.0773515701293945,Endereço REDESIM,cep,100
+0.06896257400512695,Endereço REDESIM,idêntico / igual / mesmo que / sameAs,0
+0.06442070007324219,Endereço RFB,tem consistência com os correios,0
+0.06629323959350586,Endereço RFB,tem similaridade,0
+0.06469988822937012,Endereço RFB,cidade,0
+0.061513662338256836,Endereço RFB,cidade,0
+0.06071615219116211,Endereço RFB,estado,0
+0.058573246002197266,Endereço RFB,logradouro,0
+0.0610051155090332,Endereço RFB,logradouro,0
+0.06108808517456055,Endereço RFB,número,0
+0.0567936897277832,Endereço RFB,número,0
+0.055795907974243164,Endereço RFB,número do endereço,0
+0.05883216857910156,Endereço RFB,CEP,0
+0.05598330497741699,Endereço RFB,cep,0
+0.08817338943481445,Endereço RFB,idêntico / igual / mesmo que / sameAs,0
+2.297804594039917,Endereço RFB,tem consistência com os correios,100
+1.498016357421875,Endereço RFB,tem similaridade,100
+0.06467056274414062,Endereço RFB,cidade,0
+0.06410026550292969,Endereço RFB,cidade,0
+0.06255722045898438,Endereço RFB,estado,0
+0.06717443466186523,Endereço RFB,logradouro,0
+0.06442403793334961,Endereço RFB,logradouro,0
+0.13854575157165527,Endereço RFB,número,100
+0.13837027549743652,Endereço RFB,número,100
+0.06711602210998535,Endereço RFB,número do endereço,0
+0.14256000518798828,Endereço RFB,CEP,100
+0.1370377540588379,Endereço RFB,cep,100
+0.06768918037414551,Endereço RFB,idêntico / igual / mesmo que / sameAs,0
+0.12755036354064941,Ente Público,tem estado | tem unidade federativa,100
+0.07616448402404785,Ente Público,código srf,100
+0.07639145851135254,Ente Público,esfera,100
+0.08411121368408203,Ente Público,natureza jurídica,100
+0.07592916488647461,Ente Público,nivel,100
+0.0677192211151123,Ente Público,qualificação do responsável,0
+0.06583094596862793,Ente Público,tem matriz,0
+0.06631731986999512,Ente Público,cnpj raíz,0
+0.07500362396240234,Ente Público,razão social,100
+0.0675511360168457,Ente Público,idêntico / igual / mesmo que / sameAs,0
+0.07579469680786133,Ente Público,e-mail,0
+0.2651693820953369,Entidade Integrada,código da entidade integrada,13
+0.5388822555541992,Estabelecimento,nome fantasia,100
+15.834261894226074,Estabelecimento,razão social,100
+0.42827415466308594,Estabelecimento,é contribuinte geral,100
+0.06811857223510742,Estabelecimento,é estabelecimento de,0
+0.0671699047088623,Estabelecimento,é matriz de,0
+4.492650985717773,Estabelecimento,foi desabilitado,100
+1.1005449295043945,Estabelecimento,tem atividade econômica,100
+0.3809049129486084,Estabelecimento,tem atividade econômica principal,100
+0.6693069934844971,Estabelecimento,tem atividade econômica secundária,100
+0.06698179244995117,Estabelecimento,tem baixa,0
+0.3483881950378418,Estabelecimento,tem endereço,100
+0.4369831085205078,Estabelecimento,tem obrigação legal,100
+1.2828104496002197,Estabelecimento,tem realização de atividade econômica,100
+1.2180001735687256,Estabelecimento,tem situação cadastral,100
+0.6329226493835449,Estabelecimento,tem situação fiscal,100
+0.34139442443847656,Estabelecimento,tem tipo de contribuição,100
+0.301680326461792,Estabelecimento,estabelecimento tem o tipo,100
+0.3358945846557617,Estabelecimento,tem tipo de regime tributário,100
+0.0692291259765625,Estabelecimento,tem unidade consumo,0
+0.3199000358581543,Estabelecimento,tem unidade fiscal,100
+0.2656714916229248,Estabelecimento,tem usuário,100
+0.3106081485748291,Estabelecimento,area,100
+0.2672581672668457,Estabelecimento,CNPJ,100
+0.23543739318847656,Estabelecimento,cnpj,100
+0.2864234447479248,Estabelecimento,cnpj completo,100
+0.2879974842071533,Estabelecimento,código de regime mercantil,100
+0.061536550521850586,Estabelecimento,contato,0
+15.477839946746826,Estabelecimento,data de início das atividades do estabelecimento,100
+0.06615352630615234,Estabelecimento,ddd,0
+0.06197667121887207,Estabelecimento,ddd do fax,0
+0.26146411895751953,Estabelecimento,fax,100
+0.29038166999816895,Estabelecimento,número de contato,100
+0.2712690830230713,Estabelecimento,contact number,100
+0.29454874992370605,Estabelecimento,telefone,100
+0.10796380043029785,Estabelecimento,incra,0
+0.2700662612915039,Estabelecimento,inscrição estadual,100
+0.14253759384155273,Estabelecimento,inscrição imobiliária,100
+0.1127467155456543,Estabelecimento,inscrição municipal,100
+0.0819084644317627,Estabelecimento,metragem,100
+0.06826925277709961,Estabelecimento,nire matriz,0
+0.10425901412963867,Estabelecimento,nirf,0
+0.2852773666381836,Estabelecimento,nivel cumprimento,100
+0.06517672538757324,Estabelecimento,número do imóvel,0
+0.14481568336486816,Estabelecimento,número da licenca,1
+0.06690740585327148,Estabelecimento,número de registro dos bens,0
+0.06840729713439941,Estabelecimento,regime de bens,0
+0.26865458488464355,Estabelecimento,e-mail,100
+0.06211090087890625,Estabelecimento,phone number,0
+0.06238102912902832,Estabelecimento,número de telefone,0
+1.637071132659912,Estabelecimento,idêntico / igual / mesmo que / sameAs,100
+0.06357049942016602,Estabelecimento,número de fax,0
+0.07663559913635254,Estabelecimento REDESIM,cnpj completo,100
+0.11194419860839844,Estabelecimento REDESIM,nome fantasia,100
+0.06926083564758301,Estabelecimento REDESIM,número de contato,0
+0.0648951530456543,Estabelecimento REDESIM,contact number,0
+0.0912470817565918,Estabelecimento REDESIM,phone number,0
+0.06557011604309082,Estabelecimento REDESIM,número de telefone,0
+0.06365656852722168,Estabelecimento REDESIM,razão social,0
+0.07781481742858887,Estabelecimento REDESIM,telefone,100
+0.10880589485168457,Estabelecimento REDESIM,idêntico / igual / mesmo que / sameAs,100
+0.07513022422790527,Estabelecimento REDESIM,fax,100
+0.06276893615722656,Estabelecimento REDESIM,número de fax,0
+0.10425424575805664,Estabelecimento REDESIM,e-mail,100
+0.07753729820251465,Estabelecimento RFB,cnpj completo,100
+12.769299745559692,Estabelecimento RFB,nome fantasia,100
+117.77457213401794,Estabelecimento RFB,número de contato,100
+121.13959980010986,Estabelecimento RFB,contact number,100
+0.1317751407623291,Estabelecimento RFB,phone number,0
+0.06483125686645508,Estabelecimento RFB,número de telefone,0
+42.91149139404297,Estabelecimento RFB,razão social,100
+93.79250431060791,Estabelecimento RFB,telefone,100
+0.23189616203308105,Estabelecimento RFB,idêntico / igual / mesmo que / sameAs,100
+2.5602989196777344,Estabelecimento RFB,fax,100
+0.06982231140136719,Estabelecimento RFB,número de fax,0
+15.569411039352417,Estabelecimento RFB,e-mail,100
+0.264087438583374,Estabelecimento SEFAZ,cnpj completo,100
+0.34047389030456543,Estabelecimento SEFAZ,nome fantasia,100
+0.2845170497894287,Estabelecimento SEFAZ,número de contato,100
+0.2990152835845947,Estabelecimento SEFAZ,contact number,100
+0.06704139709472656,Estabelecimento SEFAZ,phone number,0
+0.06106448173522949,Estabelecimento SEFAZ,número de telefone,0
+0.06998205184936523,Estabelecimento SEFAZ,razão social,0
+0.341259241104126,Estabelecimento SEFAZ,telefone,100
+1.569441795349121,Estabelecimento SEFAZ,idêntico / igual / mesmo que / sameAs,100
+0.27755188941955566,Estabelecimento SEFAZ,fax,100
+0.06548595428466797,Estabelecimento SEFAZ,número de fax,0
+0.2493271827697754,Estabelecimento SEFAZ,e-mail,100
+0.06278610229492188,Estabelecimento SEFAZ,cnpj completo,0
+0.0659632682800293,Estabelecimento SEFAZ,nome fantasia,0
+0.05721330642700195,Estabelecimento SEFAZ,número de contato,0
+0.06354689598083496,Estabelecimento SEFAZ,contact number,0
+0.06644177436828613,Estabelecimento SEFAZ,phone number,0
+0.06849503517150879,Estabelecimento SEFAZ,número de telefone,0
+0.10057663917541504,Estabelecimento SEFAZ,razão social,0
+0.07167267799377441,Estabelecimento SEFAZ,telefone,0
+0.0758521556854248,Estabelecimento SEFAZ,idêntico / igual / mesmo que / sameAs,0
+0.07105517387390137,Estabelecimento SEFAZ,fax,0
+0.07024955749511719,Estabelecimento SEFAZ,número de fax,0
+0.07452607154846191,Estabelecimento SEFAZ,e-mail,0
+0.06993412971496582,Evento Desabilitado,tem razão desabilitado,0
+3.9757742881774902,Evento Desabilitado,tem razão de situação cadastral,100
+0.1597890853881836,Evento Desabilitado,tem registro desabilitado,100
+0.0643310546875,Exigência,tem documento suplementar,0
+0.0642087459564209,Exigência,código da exigência,0
+0.0621640682220459,Exigência,descrição da exigência,0
+0.8046231269836426,Fornecedor,nome fantasia,100
+0.24608302116394043,Fornecedor,tem atividade econômica,100
+0.4965546131134033,Fornecedor,código de regime tributário,100
+0.5196502208709717,Fornecedor,inscrição estadual,100
+0.23982763290405273,Fornecedor,inscrição municipal,100
+0.08081245422363281,Fornecedor,número do item,0
+0.07804417610168457,Fornecedor,idêntico / igual / mesmo que / sameAs,0
+0.07021546363830566,Fornecedor Inabilitado,tem acordão,0
+0.06818628311157227,Fornecedor Inabilitado,idêntico / igual / mesmo que / sameAs,0
+0.0657036304473877,Fornecedor Inidôneo,tem acordão,0
+0.07424712181091309,Fornecedor Inidôneo,idêntico / igual / mesmo que / sameAs,0
+0.14038848876953125,Fornecedor Pessoa Física,CPF,100
+0.14921331405639648,Fornecedor Pessoa Física,name,73
+0.09384036064147949,Fornecedor Pessoa Física,nome,73
+0.06406068801879883,Fornecedor Pessoa Física,idêntico / igual / mesmo que / sameAs,0
+0.05994153022766113,Fornecedor Pessoa Física,e-mail,0
+0.061226844787597656,Fornecedor Pessoa Jurídica,qualificação do responsável,0
+0.06246781349182129,Fornecedor Pessoa Jurídica,tem matriz,0
+0.0943460464477539,Fornecedor Pessoa Jurídica,cnpj raíz,0
+0.08876824378967285,Fornecedor Pessoa Jurídica,razão social,100
+0.1037743091583252,Fornecedor Pessoa Jurídica,idêntico / igual / mesmo que / sameAs,0
+0.06651830673217773,Fornecedor Pessoa Jurídica,e-mail,0
+0.08621859550476074,Fornecedor Restrito,nome fantasia,100
+0.12329316139221191,Fornecedor Restrito,tem cidade,73
+0.16403937339782715,Fornecedor Restrito,tem estado | tem unidade federativa,100
+0.19492673873901367,Fornecedor Restrito,CNPJ,100
+0.11797976493835449,Fornecedor Restrito,cnpj,100
+0.08323860168457031,Fornecedor Restrito,cnpj cpf,100
+0.09956765174865723,Fornecedor Restrito,CPF,100
+0.07451915740966797,Fornecedor Restrito,número do documento,0
+0.0749974250793457,Fornecedor Restrito,idêntico / igual / mesmo que / sameAs,0
+0.06749224662780762,Grupo,membro,0
+0.1327204704284668,Grupo,e-mail,100
+0.22928977012634277,Grupo CNAE,CNAE,100
+0.09346604347229004,Grupo CNAE,Classificação Nacional de Atividades Econômicas,100
+0.10267019271850586,Grupo CNAE,descrição da atividade econômica,100
+0.0625009536743164,Grupo CNAE,idêntico / igual / mesmo que / sameAs,0
+0.4250342845916748,Imposto,tem periodicidade,5
+0.9605228900909424,Imposto,código do imposto,3
+0.06593537330627441,Imposto,código periodicidade,0
+6.958552360534668,Inadimplente,tem inadimplencia,100
+0.06671285629272461,Inadimplente,número do documento,0
+0.06333804130554199,Inadimplente,idêntico / igual / mesmo que / sameAs,0
+0.13138484954833984,Inadimplência,tem infração,100
+0.13746237754821777,Inadimplência,tem obrigação,100
+0.13647007942199707,Inadimplência,data de exclusão,100
+0.07257890701293945,Inadimplência,data final,0
+0.1872084140777588,Inadimplência,data inicial,100
+0.15491867065429688,Inadimplência,motivo de exclusão,100
+0.18470549583435059,Inadimplência,número de meses,100
+0.18478631973266602,Inadimplência,observação,100
+0.1386418342590332,Inadimplência,unidade de inclusão,100
+0.14284133911132812,Inadimplência,usuário da exclusão,100
+0.16820096969604492,Inadimplência,usuário da inclusão,100
+0.06438875198364258,Inapta,tem razão de situação cadastral,0
+0.06185793876647949,Inapta,data situação cadastral,0
+0.06331658363342285,Inapta,data da situação cadastral,0
+0.0774374008178711,Inapta,idêntico / igual / mesmo que / sameAs,0
+6.41121506690979,Inapta,tem razão de situação cadastral,100
+0.06894183158874512,Inapta,data situação cadastral,0
+0.07059335708618164,Inapta,data da situação cadastral,0
+0.0627899169921875,Inapta,idêntico / igual / mesmo que / sameAs,0
+0.38002967834472656,Infração,código da infração,7
+0.305753231048584,Infração,tipo de infração,9
+6.123697519302368,Item,tem documento fiscal,100
+0.07530069351196289,Item,tem produto,0
+1.7609972953796387,Item,aliquota,100
+0.5275452136993408,Item,código do item,100
+0.06465363502502441,Item,informações adicionais,0
+0.0635385513305664,Item,número do item,0
+1.7813892364501953,Item,número ordem,100
+1.9992163181304932,Item,unidade de medida,100
+1.741100788116455,Item,valor de acréscimo,100
+1.7747199535369873,Item,valor de desconto,100
+0.09560704231262207,Item,descrição classificação,0
+2.3735156059265137,Item,classificação,100
+0.07340240478515625,Item,tem compra pública,0
+2.108900785446167,Item,grupo,100
+0.12435698509216309,Localização | Local,latitude,100
+0.08295297622680664,Localização | Local,longitude,100
+0.1354985237121582,Logradouro,tem bairro,100
+0.08240270614624023,Logradouro,tem cidade,100
+0.0753636360168457,Logradouro,logradouro,100
+0.0779883861541748,Logradouro,logradouro,100
+0.07992410659790039,Logradouro,tipo do logradouro,0
+0.0958857536315918,Logradouro,tipo do logradouro,100
+0.07349944114685059,Logradouro,CEP,0
+0.0634613037109375,Logradouro,cep,0
+0.08352088928222656,Logradouro,tem cep,100
+0.06918215751647949,Logradouro,latitude,0
+0.0651700496673584,Logradouro,longitude,0
+0.06254291534423828,Logradouro,e parte de,0
+0.06377339363098145,Logradouro,CEP,0
+0.06414484977722168,Logradouro,idêntico / igual / mesmo que / sameAs,0
+0.6336562633514404,Medicamento,código do medicamento,100
+0.6562995910644531,Medicamento,código do produto anvisa,100
+0.28212499618530273,Medicamento,data de fabricação,100
+0.301424503326416,Medicamento,motivo de isenção anvisa,100
+0.27896595001220703,Medicamento,número do lote,100
+0.38690614700317383,Medicamento,preço máximo do consumidor,100
+0.3782522678375244,Medicamento,quantidade,100
+0.22532272338867188,Natureza Legal | Natureza Jurídica,código da natureza legal,100
+0.06405901908874512,Natureza Legal | Natureza Jurídica,idêntico / igual / mesmo que / sameAs,0
+0.06793451309204102,Nula,tem razão de situação cadastral,0
+0.062230825424194336,Nula,data situação cadastral,0
+0.06251406669616699,Nula,data da situação cadastral,0
+0.06703472137451172,Nula,idêntico / igual / mesmo que / sameAs,0
+22.994621515274048,Nula,tem razão de situação cadastral,100
+0.07535600662231445,Nula,data situação cadastral,0
+0.06139636039733887,Nula,data da situação cadastral,0
+0.0782618522644043,Nula,idêntico / igual / mesmo que / sameAs,0
+0.6353447437286377,Não Contribuinte,cnpj cpf,100
+0.6621062755584717,Não Contribuinte,inscrição estadual,100
+0.5246386528015137,Não Contribuinte,nome de não contribuinte,100
+2.603090524673462,Obrigação,data de vencimento,100
+3.0193910598754883,Obrigação,objeto da obrigação,100
+0.8430676460266113,Obrigação,valor da obrigação,100
+1.0175766944885254,Obrigação Legal,tem imposto,100
+0.47757816314697266,Obrigação Legal,tem situação obrigação,100
+0.3468039035797119,Obrigação Legal,tem usuário,100
+1.6640663146972656,Obrigação Legal,data fim da obrigação legal,100
+0.3491692543029785,Obrigação Legal,data início da obrigação legal,100
+0.1723778247833252,Opção pelo regime SIMPLES,data de exclusão do regime SIMPLES,100
+0.1783127784729004,Opção pelo regime SIMPLES,data de opção pelo regime SIMPLES,100
+0.06426715850830078,Opção pelo regime SIMPLES,data exclusão do simples,0
+0.1410541534423828,Opção pelo regime SIMPLES,tipo da opção pelo simples,100
+0.12735438346862793,País,código de país,100
+0.08075451850891113,País,código do país RFB,0
+0.09534931182861328,País,nome do país,100
+0.6826040744781494,País,nome do país,0
+0.07776832580566406,País,latitude,0
+0.0709984302520752,País,longitude,0
+0.0843973159790039,País,código da cidade,0
+0.07675790786743164,País,código do município,0
+0.08573365211486816,País,idêntico / igual / mesmo que / sameAs,0
+0.7546989917755127,Pessoa Física,é emancipado,0
+0.0657050609588623,Pessoa Física,tem cidade de naturalidade,0
+0.6146512031555176,Pessoa Física,tem documento,100
+0.5634539127349854,Pessoa Física,tem mãe,100
+0.6926343441009521,Pessoa Física,tem nacionalidade,100
+0.4337782859802246,Pessoa Física,tem pai,100
+0.25428295135498047,Pessoa Física,tem uf de naturalidade,0
+0.08515715599060059,Pessoa Física,data de óbito,0
+46.79741811752319,Pessoa Física,CPF,100
+1.1709868907928467,Pessoa Física,data de nascimento,100
+0.07231426239013672,Pessoa Física,orgão emissor do documento,0
+0.578639030456543,Pessoa Física,estado civil,100
+3.135500192642212,Pessoa Física,fax,100
+0.07616496086120605,Pessoa Física,número de contato,0
+0.06813883781433105,Pessoa Física,contact number,0
+1.4156367778778076,Pessoa Física,telefone,100
+0.7803590297698975,Pessoa Física,identidade,100
+0.08312511444091797,Pessoa Física,número de fax,0
+0.06953763961791992,Pessoa Física,phone number,0
+0.06486845016479492,Pessoa Física,número de telefone,0
+0.27756667137145996,Pessoa Física,prazo indeterminado,0
+0.4552273750305176,Pessoa Física,regime de bens,100
+1.1314141750335693,Pessoa Física,sexo,100
+0.0769805908203125,Pessoa Física,telefone1,0
+0.07217216491699219,Pessoa Física,telefone2,0
+0.07011985778808594,Pessoa Física,telefone,0
+0.5979413986206055,Pessoa Física,e-mail,100
+0.9917590618133545,Pessoa Física,gênero,100
+45.76438045501709,Pessoa Física,name,100
+49.68593502044678,Pessoa Física,nome,100
+0.14274883270263672,Pessoa Física,idêntico / igual / mesmo que / sameAs,0
+2.8783624172210693,Pessoa Física Cadastro SEFAZ,name,100
+2.328115463256836,Pessoa Física Cadastro SEFAZ,nome,100
+0.595578670501709,Pessoa Física Cadastro SEFAZ,e-mail,100
+0.0692148208618164,Pessoa Física Cadastro SEFAZ,idêntico / igual / mesmo que / sameAs,0
+1.1525003910064697,Pessoa Física REDESIM,name,100
+0.5384805202484131,Pessoa Física REDESIM,nome,100
+1.0183234214782715,Pessoa Física REDESIM,e-mail,100
+0.30246639251708984,Pessoa Física REDESIM,idêntico / igual / mesmo que / sameAs,0
+0.17444944381713867,Pessoa Física RFB,name,100
+0.1406083106994629,Pessoa Física RFB,nome,100
+0.07208919525146484,Pessoa Física RFB,e-mail,0
+0.06884527206420898,Pessoa Física RFB,idêntico / igual / mesmo que / sameAs,0
+0.06758713722229004,Porte da Empresa | Porte Empresarial | Porte,código do porte da empresa,0
+0.06678056716918945,Porte da Empresa | Porte Empresarial | Porte,valor de capital social,0
+0.06389760971069336,Porte da Empresa | Porte Empresarial | Porte,Capital Social,0
+0.06676769256591797,Porte da Empresa | Porte Empresarial | Porte,código de porte,0
+0.12692618370056152,Processo,data de acordão,100
+0.06165027618408203,Processo,data de origem,0
+0.0680234432220459,Processo,data de publicação,0
+0.0853884220123291,Processo,data de trânsito julgado,100
+0.07692766189575195,Processo,deliberação,100
+0.06820058822631836,Processo,origem da informação,0
+0.08148622512817383,Processo,tem fornecedor restrito,100
+0.068359375,Processo de Baixa,tem razão de situação cadastral,0
+0.06562423706054688,Processo de Baixa,data situação cadastral,0
+0.06892728805541992,Processo de Baixa,data da situação cadastral,0
+0.09290528297424316,Processo de Baixa,idêntico / igual / mesmo que / sameAs,0
+0.062454938888549805,Processo de Baixa,tem razão de situação cadastral,0
+0.09305405616760254,Processo de Baixa,data situação cadastral,0
+0.06400585174560547,Processo de Baixa,data da situação cadastral,0
+0.06275129318237305,Processo de Baixa,idêntico / igual / mesmo que / sameAs,0
+0.07158803939819336,Processo de Suspensão,tem razão de situação cadastral,0
+0.07016134262084961,Processo de Suspensão,data situação cadastral,0
+0.06821322441101074,Processo de Suspensão,data da situação cadastral,0
+0.06852984428405762,Processo de Suspensão,idêntico / igual / mesmo que / sameAs,0
+0.07006716728210449,Processo de Suspensão,tem razão de situação cadastral,0
+0.07478928565979004,Processo de Suspensão,data situação cadastral,0
+0.06912088394165039,Processo de Suspensão,data da situação cadastral,0
+0.06580281257629395,Processo de Suspensão,idêntico / igual / mesmo que / sameAs,0
+0.0668039321899414,Produto,cean tributário,0
+0.06821537017822266,Produto,cest,0
+0.09856820106506348,Produto,cfop,0
+0.06713342666625977,Produto,código ean em barras,0
+0.06650280952453613,Produto,código do ncm,0
+0.06772804260253906,Produto,código do produto,0
+0.08485126495361328,Produto,descrição,0
+0.07695722579956055,Produto,informações adicionais,0
+0.08292961120605469,Produto,quantidade comercial,0
+0.06561398506164551,Produto,quantidade tributável,0
+0.06351089477539062,Produto,unidade comercial,0
+0.07795405387878418,Produto,valor unitário,0
+0.07314014434814453,Produto,valor unitário de tributação,0
+0.08030915260314941,Protocolo,tem fonte cadastro,0
+0.06303834915161133,Protocolo,data da consulta anterior,0
+0.08313250541687012,Protocolo,data entidade registrada,0
+0.48610949516296387,Protocolo,protocolo dbe,100
+0.1317579746246338,Provedor,tem endereço,100
+0.07094120979309082,Provedor,CNPJ,100
+0.06352043151855469,Provedor,cnpj,100
+0.06431007385253906,Provedor,código de identificação do provedor,0
+0.10457015037536621,Provedor,inscrição estadual,100
+0.1983637809753418,Qualificação do Sócio ou Representante,código da qualificação,100
+0.06662845611572266,Qualificação do Sócio ou Representante,inscrição estadual,0
+0.07402372360229492,Qualificação do Sócio ou Representante,valor de participação,0
+0.06273484230041504,Razão | Motivo de Situação Cadastral,razão,0
+0.19131684303283691,Razão | Motivo de Situação Cadastral,código de razão da situação,100
+0.06557893753051758,Razão | Motivo de Situação Cadastral,código de razão da situação cadastral,0
+0.06181502342224121,Razão | Motivo de Situação Cadastral,data da baixa,0
+0.11551165580749512,Realização de Atividade Econômica,atividade performada,100
+0.10006904602050781,Realização de Atividade Econômica,início da atividade econômica,100
+0.0622706413269043,Realização de Atividade Econômica,término da atividade econômica,0
+0.22118091583251953,Registro Desabilitado,excluído por,100
+1.1366455554962158,Registro Desabilitado,incluido por,100
+0.13613152503967285,Registro Desabilitado,data fim de desabilitado,100
+0.1556563377380371,Registro Desabilitado,data início como desabilitado,100
+0.18192076683044434,Representante Legal,name,100
+0.06850790977478027,Representante Legal,nome,100
+0.3002946376800537,Representante Legal,CNPJ,100
+0.23364019393920898,Representante Legal,cnpj,100
+1.317432165145874,Representante Legal,CPF,100
+0.07309937477111816,Representante Legal,data início mandato,0
+0.1065220832824707,Representante Legal,telefone,100
+0.24921560287475586,Representante Legal,idêntico / igual / mesmo que / sameAs,0
+0.1013035774230957,Representante Legal,e-mail,100
+1.1823534965515137,Representante Legal Físico,CPF,100
+0.07233119010925293,Representante Legal Físico,idêntico / igual / mesmo que / sameAs,0
+0.47570180892944336,Representante Legal Físico,e-mail,100
+0.28633904457092285,Representante Legal Jurídico,CNPJ,100
+0.22076153755187988,Representante Legal Jurídico,cnpj,100
+0.18035340309143066,Representante Legal Jurídico,idêntico / igual / mesmo que / sameAs,0
+0.08249378204345703,Representante Legal Jurídico,e-mail,100
+0.08421635627746582,Sancionado,nome fantasia,100
+0.09812402725219727,Sancionado,razão social,100
+0.5631895065307617,Sancionado,tem sanção,100
+0.4338343143463135,Sancionado,CNPJ,100
+0.07448363304138184,Sancionado,cnpj,100
+0.0996854305267334,Sancionado,CPF,100
+0.07673311233520508,Sancionado,idêntico / igual / mesmo que / sameAs,0
+0.07878828048706055,Sanção,observação desabilitado,0
+1.310009241104126,Sanção,tem órgão sancionador,100
+1.2742245197296143,Sanção,tem processo,100
+1.2614123821258545,Sanção,abrangência,100
+1.3192031383514404,Sanção,data final,100
+1.2758736610412598,Sanção,data de início,100
+0.8101363182067871,Sanção,data de publicação,100
+1.3219690322875977,Sanção,descrição da fundamentação,100
+0.7371563911437988,Sanção,detalhamento,100
+0.06397724151611328,Sanção,fundamentação,0
+1.5625019073486328,Sanção,fundamentação legal,100
+0.7118160724639893,Sanção,observações,100
+1.2596893310546875,Sanção,publicação,100
+0.1889500617980957,Sanção,tipo,0
+1.2591543197631836,Sanção,tem órgão,100
+0.24358749389648438,Seção CNAE,CNAE,100
+0.12048816680908203,Seção CNAE,Classificação Nacional de Atividades Econômicas,100
+0.14516019821166992,Seção CNAE,descrição da atividade econômica,100
+0.06995940208435059,Seção CNAE,idêntico / igual / mesmo que / sameAs,0
+0.07225394248962402,Situação Cadastral,descrição da situação,0
+0.0722205638885498,Situação Cadastral,tem baixa,0
+21.381871700286865,Situação Cadastral,tem razão de situação cadastral,100
+0.37588071823120117,Situação Cadastral,data situação cadastral,100
+0.22127628326416016,Situação Cadastral,data da situação cadastral,100
+1.6825001239776611,Situação Cadastral,status de baixa,100
+0.4139060974121094,Situação Cadastral,código da situação cadastral,100
+0.20470309257507324,Situação Cadastral,situação cadastral,100
+0.07613873481750488,Situação Cadastral,idêntico / igual / mesmo que / sameAs,0
+0.29775357246398926,Situação Cadastral Cadastro da SEFAZ,tem razão de situação cadastral,0
+0.2327268123626709,Situação Cadastral Cadastro da SEFAZ,data situação cadastral,100
+0.22046637535095215,Situação Cadastral Cadastro da SEFAZ,data da situação cadastral,100
+0.06610465049743652,Situação Cadastral Cadastro da SEFAZ,idêntico / igual / mesmo que / sameAs,0
+0.06545519828796387,Situação Cadastral REDESIM,tem razão de situação cadastral,0
+0.07183027267456055,Situação Cadastral REDESIM,data situação cadastral,0
+0.06252527236938477,Situação Cadastral REDESIM,data da situação cadastral,0
+0.06838011741638184,Situação Cadastral REDESIM,idêntico / igual / mesmo que / sameAs,0
+20.653930187225342,Situação Cadastral RFB,tem razão de situação cadastral,100
+1.4396085739135742,Situação Cadastral RFB,data situação cadastral,0
+0.07856631278991699,Situação Cadastral RFB,data da situação cadastral,0
+0.07084155082702637,Situação Cadastral RFB,idêntico / igual / mesmo que / sameAs,0
+0.06868267059326172,Situação Cadastral SEFAZ,tem razão de situação cadastral,0
+0.07285475730895996,Situação Cadastral SEFAZ,data situação cadastral,0
+0.08083677291870117,Situação Cadastral SEFAZ,data da situação cadastral,0
+0.0745992660522461,Situação Cadastral SEFAZ,idêntico / igual / mesmo que / sameAs,0
+0.06920075416564941,Situação Fiscal,descrição da situação,0
+0.07072257995605469,Situação Fiscal,tem razão desabilitado,0
+0.06844162940979004,Situação Fiscal,código de situação fiscal,0
+0.10602617263793945,Situação Fiscal,data da situação fiscal,100
+0.4479234218597412,Situação Fiscal,situação fiscal,100
+0.075469970703125,Situação especial,descrição da situação,0
+0.14070534706115723,Situação especial,descrição da situação especial,86
+0.1256401538848877,Situação especial,data de início da situação,86
+0.07690143585205078,Situação especial,data de início da situação especial,0
+0.6487796306610107,Sociedade,qualificação do responsável,100
+0.6507325172424316,Sociedade,tem profissional,100
+0.807349443435669,Sociedade,qualificação do sócio,100
+0.24576759338378906,Sociedade,tem qualificação representante,100
+2.7543063163757324,Sociedade,tem qualificação sócio,100
+0.14889216423034668,Sociedade,tem representante / tem representante legal,100
+2.4308340549468994,Sociedade,tem representante / tem representante legal,100
+2.356266975402832,Sociedade,tem sócio,100
+0.13537120819091797,Sociedade,tem unidade fiscal,1
+0.6819312572479248,Sociedade,tem usuário,100
+1.492542028427124,Sociedade,data de entrada,100
+0.06116032600402832,Sociedade,data de início da sociedade,0
+0.5233051776885986,Sociedade,data de saída,100
+0.11433982849121094,Sociedade,fim de participação,0
+0.7800025939941406,Sociedade,início de participação,100
+1.0760905742645264,Sociedade,percentual de participação,100
+1.2385449409484863,Sociedade,valor de participação,100
+0.078521728515625,Sociedade,idêntico / igual / mesmo que / sameAs,0
+0.7203736305236816,Sociedade Cadastro SEFAZ,qualificação do sócio,100
+0.6545238494873047,Sociedade Cadastro SEFAZ,tem qualificação sócio,100
+0.1409311294555664,Sociedade Cadastro SEFAZ,data de entrada,100
+0.0898294448852539,Sociedade Cadastro SEFAZ,data de início da sociedade,0
+0.24663972854614258,Sociedade Cadastro SEFAZ,qualificação do responsável,100
+0.27538204193115234,Sociedade Cadastro SEFAZ,tem qualificação representante,100
+0.07250666618347168,Sociedade Cadastro SEFAZ,tem representante / tem representante legal,0
+0.9472916126251221,Sociedade Cadastro SEFAZ,tem representante / tem representante legal,100
+0.0967261791229248,Sociedade Cadastro SEFAZ,idêntico / igual / mesmo que / sameAs,0
+0.06519651412963867,Sociedade REDESIM,qualificação do sócio,0
+0.33501195907592773,Sociedade REDESIM,tem qualificação sócio,100
+0.4794127941131592,Sociedade REDESIM,data de entrada,100
+0.06676220893859863,Sociedade REDESIM,data de início da sociedade,0
+0.08226847648620605,Sociedade REDESIM,qualificação do responsável,0
+0.07435441017150879,Sociedade REDESIM,tem qualificação representante,0
+0.07474160194396973,Sociedade REDESIM,tem representante / tem representante legal,0
+2.704876184463501,Sociedade REDESIM,tem representante / tem representante legal,100
+0.06630349159240723,Sociedade REDESIM,idêntico / igual / mesmo que / sameAs,0
+0.08292341232299805,Sociedade RFB,qualificação do sócio,0
+8.514824867248535,Sociedade RFB,tem qualificação sócio,100
+0.12255668640136719,Sociedade RFB,data de entrada,100
+0.06849026679992676,Sociedade RFB,data de início da sociedade,0
+0.06670594215393066,Sociedade RFB,qualificação do responsável,0
+0.07364296913146973,Sociedade RFB,tem qualificação representante,0
+0.08933901786804199,Sociedade RFB,tem representante / tem representante legal,100
+0.07219171524047852,Sociedade RFB,tem representante / tem representante legal,0
+0.07565641403198242,Sociedade RFB,idêntico / igual / mesmo que / sameAs,0
+0.36196064949035645,Sociedade com Pessoa Física,qualificação do sócio,100
+0.5644505023956299,Sociedade com Pessoa Física,tem qualificação sócio,100
+0.8864395618438721,Sociedade com Pessoa Física,data de entrada,100
+0.07907319068908691,Sociedade com Pessoa Física,data de início da sociedade,0
+0.319441556930542,Sociedade com Pessoa Física,qualificação do responsável,100
+0.35511016845703125,Sociedade com Pessoa Física,tem qualificação representante,100
+0.07476234436035156,Sociedade com Pessoa Física,tem representante / tem representante legal,0
+2.6902928352355957,Sociedade com Pessoa Física,tem representante / tem representante legal,100
+0.07410049438476562,Sociedade com Pessoa Física,idêntico / igual / mesmo que / sameAs,0
+0.157639741897583,Sociedade com Pessoa Jurídica,qualificação do sócio,100
+0.1732327938079834,Sociedade com Pessoa Jurídica,tem qualificação sócio,100
+0.3100743293762207,Sociedade com Pessoa Jurídica,data de entrada,100
+0.05890226364135742,Sociedade com Pessoa Jurídica,data de início da sociedade,0
+0.2066664695739746,Sociedade com Pessoa Jurídica,qualificação do responsável,100
+0.24766874313354492,Sociedade com Pessoa Jurídica,tem qualificação representante,100
+0.40824031829833984,Sociedade com Pessoa Jurídica,tem representante / tem representante legal,100
+1.5238027572631836,Sociedade com Pessoa Jurídica,tem representante / tem representante legal,100
+0.06775903701782227,Sociedade com Pessoa Jurídica,idêntico / igual / mesmo que / sameAs,0
+0.0717308521270752,Solicitação,tem arquivo,0
+0.6458256244659424,Solicitação,tem empresa,100
+0.5521323680877686,Solicitação,tem entidade integrada,100
+0.07321405410766602,Solicitação,tem fonte cadastro,0
+0.6359779834747314,Solicitação,tem protocolo,100
+0.7130217552185059,Solicitação,tem status envio,100
+0.6957554817199707,Solicitação,tem tipo ato,100
+0.09123826026916504,Solicitação,aprovação da prefeitura,0
+0.259136438369751,Solicitação,data de autenticação,100
+0.2956273555755615,Solicitação,data de sincronização,100
+0.2555272579193115,Solicitação,data de solicitação,100
+0.6653668880462646,Solicitação,deferimento,100
+0.6986484527587891,Solicitação,envolve a sefaz,100
+0.7777934074401855,Solicitação,gera ruc,100
+0.8409099578857422,Solicitação,inscrição trauf,100
+0.56697678565979,Solicitação,protocolo dbe,100
+0.40152502059936523,Status da consistência,descrição,100
+0.2758903503417969,Status de Envio,código de status envio,4
+0.821387529373169,Status de similaridade,de endereço,100
+0.38762760162353516,Status de similaridade,grau de similaridade,100
+0.3634002208709717,Status de similaridade,descrição,100
+0.4801521301269531,Subclasse CNAE,CNAE,100
+0.35724449157714844,Subclasse CNAE,Classificação Nacional de Atividades Econômicas,100
+0.25269222259521484,Subclasse CNAE,descrição da atividade econômica,100
+0.06411147117614746,Subclasse CNAE,idêntico / igual / mesmo que / sameAs,0
+0.0610203742980957,Suspensa,tem razão de situação cadastral,0
+0.05907750129699707,Suspensa,data situação cadastral,0
+0.056664228439331055,Suspensa,data da situação cadastral,0
+0.06262683868408203,Suspensa,idêntico / igual / mesmo que / sameAs,0
+84.11671352386475,Suspensa,tem razão de situação cadastral,100
+0.8476028442382812,Suspensa,data situação cadastral,0
+0.06108379364013672,Suspensa,data da situação cadastral,0
+0.0627140998840332,Suspensa,idêntico / igual / mesmo que / sameAs,0
+0.06569743156433105,Suspensa de Ofício,tem razão de situação cadastral,0
+0.06661367416381836,Suspensa de Ofício,data situação cadastral,0
+0.0661773681640625,Suspensa de Ofício,data da situação cadastral,0
+0.06647157669067383,Suspensa de Ofício,idêntico / igual / mesmo que / sameAs,0
+0.22220087051391602,Suspensa de Ofício,tem razão de situação cadastral,0
+0.1778256893157959,Suspensa de Ofício,data situação cadastral,100
+0.12088894844055176,Suspensa de Ofício,data da situação cadastral,100
+0.07038450241088867,Suspensa de Ofício,idêntico / igual / mesmo que / sameAs,0
+0.06713676452636719,Sócio,é sócio de,0
+0.07295703887939453,Sócio,tem empresa,0
+0.06754183769226074,Sócio,tem mãe,0
+0.06692671775817871,Sócio,tem pai,0
+0.320737361907959,Sócio,qualificação do sócio,100
+133.03835940361023,Sócio,tem qualificação sócio,100
+0.1346423625946045,Sócio,tem situação funcional,0
+0.07483649253845215,Sócio,tem solicitação,0
+0.5296013355255127,Sócio,cnpj cpf,100
+0.06595683097839355,Sócio,gerente,0
+0.07229924201965332,Sócio,inscrição estadual,0
+0.23769855499267578,Sócio,percentual de participação,100
+0.4734821319580078,Sócio,idêntico / igual / mesmo que / sameAs,100
+0.0656435489654541,Sócio Cadastro SEFAZ,idêntico / igual / mesmo que / sameAs,0
+2.2914624214172363,Sócio REDESIM,idêntico / igual / mesmo que / sameAs,0
+0.43738508224487305,Sócio RFB,idêntico / igual / mesmo que / sameAs,100
+0.0928947925567627,Tipo Ato,tem solicitação,0
+0.0867152214050293,Tipo Ato,código do ato,0
+0.28574538230895996,Tipo Ato,código tipo do ato,3
+0.3938167095184326,Tipo de Contribuição,código tipo de contribuição,4
+1.0677461624145508,Tipo de Contribuição,descrição,4
+0.2730095386505127,Tipo de Propriedade,código tipo de propriedade,11
+0.08881497383117676,Tipo de Regime Tributário,código de regime tributário,0
+0.27663230895996094,Tipo de Regime Tributário,código tipo de regime tributário,8
+0.07803177833557129,Tipo de Regime Tributário,descrição do regime,0
+0.07669782638549805,Tipo de Regime Tributário,nome do regime,0
+0.5571849346160889,Tipo do Estabelecimento,código tipo de estabelecimento,13
+0.3539736270904541,Tipo do Estabelecimento,tipo da unidade,11
+0.18306326866149902,Unidade Consumo,tem consumidor,100
+0.17789411544799805,Unidade Consumo,tem endereço,100
+0.1476283073425293,Unidade Consumo,tem provedor,100
+0.06437230110168457,Unidade Consumo,identificador de uma pessoa,0
+0.07995223999023438,Unidade Consumo,data primária,0
+0.07825708389282227,Unidade Consumo,data última,0
+0.07990241050720215,Unidade Consumo,identificador da unidade de consumo,0
+0.07675671577453613,Unidade Consumo,idêntico / igual / mesmo que / sameAs,0
+0.14433598518371582,Unidade Consumo Comunicação,tipo assinante,100
+0.13180875778198242,Unidade Consumo Comunicação,tipo utilização,100
+0.08451366424560547,Unidade Consumo Comunicação,idêntico / igual / mesmo que / sameAs,0
+0.08561372756958008,Unidade Consumo Elétrica,tem classe consumo,0
+0.06951475143432617,Unidade Consumo Elétrica,modelo,0
+0.1801135540008545,Unidade Consumo Elétrica,classe consumo,100
+0.17891311645507812,Unidade Consumo Elétrica,fase,100
+0.959845781326294,Unidade Consumo Elétrica,grupo de trensão,100
+0.09132266044616699,Unidade Consumo Elétrica,idêntico / igual / mesmo que / sameAs,0
+0.1877737045288086,Unidade Consumo Telecomunicação,tipo assinante,100
+0.17587661743164062,Unidade Consumo Telecomunicação,tipo utilização,100
+0.07604646682739258,Unidade Consumo Telecomunicação,idêntico / igual / mesmo que / sameAs,0
+0.13697385787963867,Unidade Federativa | Estado,abreviação da unidade federativa,27
+0.11758303642272949,Unidade Federativa | Estado,código ibge,27
+0.0789024829864502,Unidade Federativa | Estado,estado,27
+0.07439064979553223,Unidade Federativa | Estado,latitude,0
+0.07973194122314453,Unidade Federativa | Estado,longitude,0
+0.07390475273132324,Unidade Federativa | Estado,e parte de,0
+0.08700919151306152,Unidade Federativa | Estado,idêntico / igual / mesmo que / sameAs,0
+0.13695311546325684,Unidade Fiscal,nome da unidade fiscal,8
+3.642303943634033,Usuário,nome do usuário,100
+0.1582319736480713,Órgão,tem estado | tem unidade federativa,100
+0.08405923843383789,Órgão,complemento,100
+0.08221244812011719,Órgão,complemento do endereço,100
+0.07168793678283691,Órgão,qualificação do responsável,0
+0.12543869018554688,Órgão,tem matriz,0
+0.07240724563598633,Órgão,cnpj raíz,0
+0.07656478881835938,Órgão,razão social,0
+0.08573508262634277,Órgão,e-mail,0
+0.08846116065979004,Órgão,idêntico / igual / mesmo que / sameAs,0
+0.8474211692810059,Evento,tem solicitação,100
+0.41581225395202637,Evento,código do evento,86
+0.29309749603271484,Evento,descrição do evento,66
