@@ -1,0 +1,133 @@
+tempo,classe,recurso,triplas
+1.8084421157836914,Acórdão,http://www.sefaz.ma.gov.br/resource/Restricoes/Acordao/033.003.508-83-2019-11-20T17%3A30%3A00Z-020.012%2F2018-7,-1
+1.7469007968902588,Agente,http://www.sefaz.ma.gov.br/resource/RFB/Agente/14%20LTD,-1
+1.844252347946167,Arma,http://www.sefaz.ma.gov.br/resource/Compras_Publicas/Arma/5,-1
+1.881401777267456,Arquivo,http://www.sefaz.ma.gov.br/resource/REDESIM/Arquivo/701,-1
+3.4101662635803223,Ativa,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Situacao_Cadastral/ATIVA-27992560000126-2020_03_11,-1
+2.508835554122925,Atividade Econômica,http://www.sefaz.ma.gov.br/resource/DOMINIO/Atividade_Economica/CNAE_1.0_CLASSE-ALUGUEL_DE_AERONAVES,-1
+1.84474778175354,Bairro,http://www.sefaz.ma.gov.br/resource/DOMINIO/Bairro/14_DE_NOVEMBRO-CASCAVEL,-1
+2.659235954284668,Baixa de Ofício,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Situacao_Cadastral/BAIXA_DE_OFICIO-29445462000102-2019_01_13,-1
+1.8432743549346924,Baixada,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Situacao_Cadastral/BAIXADA-18548929000115-2014_03_13,-1
+2.423906087875366,CEP do Logradouro,http://www.sefaz.ma.gov.br/resource/DOMINIO/CEP_Logradouro/01019030,-1
+1.8886632919311523,Cancelada,http://www.sefaz.ma.gov.br/resource/REDESIM/Situacao_Cadastral/CANCELADA-13891945000192-2011_06_30,-1
+1.7975060939788818,Caso da consistência,http://www.sefaz.ma.gov.br/resource/Caso_Consistencia/2.1,-1
+1.8559610843658447,Caso da similaridade,http://www.sefaz.ma.gov.br/resource/Caso_Similaridade/1,-1
+2.1756083965301514,Cidade | Município,http://www.sefaz.ma.gov.br/resource/DOMINIO/Cidade/VILA%20SAO%20FRANCISCO-AL,-1
+1.7021942138671875,Classe CNAE,http://www.sefaz.ma.gov.br/resource/DOMINIO/Atividade_Economica/CNAE_1.0_CLASSE-ALUGUEL_DE_AERONAVES,-1
+1.8013238906860352,Combustível,http://www.sefaz.ma.gov.br/resource/Compras_Publicas/Combustivel/17691902,-1
+1.7393174171447754,Compra Pública,http://www.sefaz.ma.gov.br/resource/Compras_Publicas/Compra_Publica/5613,-1
+2.4405834674835205,Consumidor,http://www.sefaz.ma.gov.br/resource/C115/Consumidor/0,-1
+1.7207608222961426,Contador,http://www.sefaz.ma.gov.br/resource/REDESIM/Pessoa/725323,-1
+1.6727328300476074,Contribuinte,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Tributario/SIMEI/12107005,-1
+1.6839544773101807,Contribuinte  Contribuinte SIMEI,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Tributario/SIMEI/12101113,-1
+1.7636611461639404,Contribuinte  Isento,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Tributario/Isento/91372866,-1
+1.845257043838501,Contribuinte Extra Cadastro,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Tributario/Extra_Cadastro/12403006,-1
+1.8529417514801025,Contribuinte Geral,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Tributario/SIMEI/12009454,-1
+1.847306728363037,Contribuinte ICMS,http://www.sefaz.ma.gov.br/resource/DOMINIO/Contribuinte_ICMS/10004106334-,-1
+1.769719123840332,Contribuinte IPVA,http://www.sefaz.ma.gov.br/resource/DOMINIO/Contribuinte_IPVA/90,-1
+1.8559300899505615,Contribuinte Normal,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Tributario/Contribuinte_Normal/105,-1
+1.6991665363311768,Contribuinte Substituto Tributário,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Tributario/Substituto_Tributario/12171061,-1
+1.881403923034668,Contribuinte do Simples Nacional,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Tributario/Simples_Nacional/12106816,-1
+1.6947503089904785,Divisão CNAE,http://www.sefaz.ma.gov.br/resource/DOMINIO/Atividade_Economica/CNAE_1.0_DIVISAO-CONFECCAO_DE_ARTIGOS_DO_VESTUARIO_E_ACESSORIOS,-1
+1.7441565990447998,Documento,http://xmlns.com/foaf/0.1/Document/CARTEIRA_DE_IDENTIDADE_PROFISSIONAL,-1
+1.7334330081939697,Documento Suplementar,http://www.sefaz.ma.gov.br/resource/REDESIM/Documento_Suplementar/8864,-1
+1.7110507488250732,Emancipado,http://www.sefaz.ma.gov.br/resource/REDESIM/Emancipado/70927600382,-1
+1.8187766075134277,Empresa Holding,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Empresa/1005728000179,-1
+1.8979976177215576,Empresa | Organização | Pessoa Jurídica,http://www.sefaz.ma.gov.br/resource/CEIS/Sancionado/29767832000110,-1
+1.699559211730957,Empresa | Organização | Pessoa Jurídica REDESIM,http://www.sefaz.ma.gov.br/resource/REDESIM/Empresa/16506549,-1
+1.7082469463348389,Empresa | Organização | Pessoa Jurídica RFB,http://www.sefaz.ma.gov.br/resource/RFB/Empresa/00000000,-1
+1.669872522354126,Empresa | Organização | Pessoa Jurídica SEFAZ,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Empresa/12000060,-1
+3.408902406692505,Endereço,http://www.sefaz.ma.gov.br/resource/C115TELECOMUNICACAO/Endereco/1125922088,-1
+1.8585960865020752,Endereço C115,http://www.sefaz.ma.gov.br/resource/C115/Endereco/000000000014,-1
+2.4072048664093018,Endereço Cadastro da SEFAZ,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Endereco/12000000,-1
+1.9280040264129639,Endereço NFE,http://www.sefaz.ma.gov.br/resource/NFE/Endereco/94500000130,-1
+2.3998517990112305,Endereço REDESIM,http://www.sefaz.ma.gov.br/resource/REDESIM/Endereco/100052,-1
+3.0288774967193604,Endereço RFB,http://www.sefaz.ma.gov.br/resource/RFB/Endereco/00000000000191,-1
+1.9884669780731201,Ente Público,http://xmlns.com/foaf/0.1/Organization/1000357000132,-1
+2.9054110050201416,Entidade Integrada,http://www.sefaz.ma.gov.br/resource/REDESIM/Entidade_Integrada/9921,-1
+3.697941541671753,Estabelecimento,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Estabelecimento/12720568,-1
+1.9455687999725342,Estabelecimento REDESIM,http://www.sefaz.ma.gov.br/resource/REDESIM/Estabelecimento/191,-1
+1.9400875568389893,Estabelecimento RFB,http://www.sefaz.ma.gov.br/resource/RFB/Estabelecimento/00000000000191,-1
+3.059882879257202,Estabelecimento SEFAZ,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Estabelecimento/12720568,-1
+1.848085641860962,Evento Desabilitado,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Evento_Desabilitado/12000000-2015_08_12-2015_08_14,-1
+3.2479000091552734,Fornecedor,http://www.sefaz.ma.gov.br/resource/Compras_Publicas/Fornecedor/1000334000470,-1
+2.0582780838012695,Fornecedor Inabilitado,http://www.sefaz.ma.gov.br/resource/TCU/Fornecedor_Inabilitado/38827824472,-1
+1.7519800662994385,Fornecedor Inidôneo,http://www.sefaz.ma.gov.br/resource/TCU/Fornecedor_Inidoneo/07405573000144,-1
+1.8413820266723633,Fornecedor Pessoa Física,http://www.sefaz.ma.gov.br/resource/CEIS/Sancionado/25745236876,-1
+2.558338165283203,Fornecedor Pessoa Jurídica,http://www.sefaz.ma.gov.br/resource/CEIS/Sancionado/29767832000110,-1
+1.790008306503296,Fornecedor Restrito,http://www.sefaz.ma.gov.br/resource/CEIS/Sancionado/01594153140,-1
+3.635228157043457,Grupo,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Empresa/1005728000179,-1
+1.7818138599395752,Grupo CNAE,http://www.sefaz.ma.gov.br/resource/DOMINIO/Atividade_Economica/CNAE_1.0_GRUPO-ADMINISTRACAO_DO_ESTADO_E_DA_POLITICA_ECONOMICA_E_SOCIAL,-1
+2.410637617111206,Imposto,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Imposto/48,-1
+1.7101483345031738,Inadimplente,http://www.sefaz.ma.gov.br/resource/CEI/Inadimplente/85405,-1
+1.9858415126800537,Inadimplência,http://www.sefaz.ma.gov.br/resource/CEI/Inadimplencia/10000100-2875068000140-20%2F09%2F05%2000%3A00%3A00-20%2F09%2F05%2000%3A00%3A00,-1
+2.59779691696167,Inapta,http://www.sefaz.ma.gov.br/resource/RFB/Situacao_Cadastral/Inapta/INAPTA-28027638000135-2021_02_23,-1
+1.7036411762237549,Infração,http://www.sefaz.ma.gov.br/resource/CEI/Infracao/1,-1
+1.7139546871185303,Localização | Local,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Endereco/12000000,-1
+1.8423030376434326,Logradouro,http://www.sefaz.ma.gov.br/resource/DOMINIO/Logradouro/01001000-SE,-1
+3.3162944316864014,Medicamento,http://www.sefaz.ma.gov.br/resource/Compras_Publicas/Medicamento/54157979,-1
+1.8924901485443115,Nacionalidade,http://www.sefaz.ma.gov.br/resource/REDESIM/Nacionalidade/BRASILEIRA,-1
+1.8821966648101807,Natureza Legal | Natureza Jurídica,http://www.sefaz.ma.gov.br/resource/DOMINIO/Natureza_Legal/1309,-1
+2.5035135746002197,Nula,http://www.sefaz.ma.gov.br/resource/RFB/Situacao_Cadastral/Nula/NULA-03224512000120-1999_05_05,-1
+1.7224617004394531,Não Contribuinte,http://www.sefaz.ma.gov.br/resource/DOMINIO/Nao_Contribuinte_ICMS/59080,-1
+1.9553029537200928,Obrigação,http://www.sefaz.ma.gov.br/resource/CEI/Obrigacao/%20Implantação%20de%20Iluminação%20Pública%20na%20Av.%20Anita%20Viana,-1
+1.7252123355865479,Obrigação Legal,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Obrigacao_Legal/12000451-46-1994_01_01-2006_02_07-4,-1
+1.7379989624023438,Opção pelo regime SIMPLES,http://www.sefaz.ma.gov.br/resource/RFB/Opcao_Simples/NAO-00000000,-1
+1.9460740089416504,Papel,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Socio/00135032350,-1
+2.9948883056640625,País,http://www.sefaz.ma.gov.br/resource/DOMINIO/Pais/AFEGANISTAO,-1
+3.7371838092803955,Periodicidade,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Periodicidade/ANUAL,-1
+1.8290624618530273,Pessoa Física,http://www.sefaz.ma.gov.br/resource/RFB/Pessoa/___000000__-AILTO_NECKEL_DE_SOUZA,-1
+1.864675760269165,Pessoa Física Cadastro SEFAZ,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Pessoa/2010305,-1
+1.838163137435913,Pessoa Física REDESIM,http://www.sefaz.ma.gov.br/resource/REDESIM/Pessoa/725323,-1
+1.7329330444335938,Pessoa Física RFB,http://www.sefaz.ma.gov.br/resource/RFB/Pessoa/___000000__-AILTO_NECKEL_DE_SOUZA,-1
+2.4074881076812744,Porte da Empresa | Porte Empresarial | Porte,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Porte/PEQUENO_PORTE,-1
+1.8425121307373047,Processo,http://www.sefaz.ma.gov.br/resource/Restricoes/Processo/01291120127,-1
+4.202773332595825,Produto,http://www.sefaz.ma.gov.br/resource/Compras_Publicas/Medicamento/34654093,-1
+1.8031129837036133,Protocolo,http://www.sefaz.ma.gov.br/resource/REDESIM/Protocolo/MAP1601343249,-1
+2.188070297241211,Provedor,http://www.sefaz.ma.gov.br/resource/C115/Provedor/1009876001729,-1
+1.895251989364624,Qualificação do Sócio ou Representante,http://www.sefaz.ma.gov.br/resource/DOMINIO/Qualificacao/ACIONISTA,-1
+1.968724012374878,Razão | Motivo de Situação Cadastral,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Razao_Situacao_Cadastral/1,-1
+1.8745558261871338,Realização de Atividade Econômica,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Realizacao_Atividade_Economica/1000050000131-12603156-2511000,-1
+1.680131435394287,Registro Desabilitado,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Registro_Desabilitado/12000040-18%2F08%2F15-15%2F09%2F15,-1
+4.046371698379517,Representante Legal,http://www.sefaz.ma.gov.br/resource/REDESIM/Pessoa/725323,-1
+4.33594012260437,Representante Legal Físico,http://www.sefaz.ma.gov.br/resource/REDESIM/Pessoa/725323,-1
+4.1959967613220215,Representante Legal Jurídico,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Empresa/1005728000179,-1
+3.1412909030914307,Sancionado,http://www.sefaz.ma.gov.br/resource/CEIS/Sancionado/30726023876,-1
+1.7862846851348877,Sanção,http://www.sefaz.ma.gov.br/resource/CEIS/Sancao/02921714000168-Inidoneidade%20-%20Legislação%20Municipal,-1
+3.2463631629943848,Seção CNAE,http://www.sefaz.ma.gov.br/resource/DOMINIO/Atividade_Economica/CNAE_1.0_SECAO-EDUCACAO,-1
+2.2277491092681885,Situação Cadastral,http://www.sefaz.ma.gov.br/resource/REDESIM/Situacao_Cadastral/ATIVA-33469042000125-2019_04_26,-1
+1.8131487369537354,Situação Cadastral Cadastro da SEFAZ,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Situacao_Cadastral/BAIXA_DE_OFICIO-34547387000112-2020_08_11,-1
+2.85019588470459,Situação Cadastral REDESIM,http://www.sefaz.ma.gov.br/resource/REDESIM/Situacao_Cadastral/ATIVA-19531053000167-2014_01_15,-1
+1.6557989120483398,Situação Cadastral RFB,http://www.sefaz.ma.gov.br/resource/RFB/Situacao_Cadastral/ATIVA-00000000000191-2005_11_03,-1
+3.754087448120117,Situação Fiscal,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Situacao_Fiscal/12092571-DESABILITADO,-1
+1.726588487625122,Situação especial,http://www.sefaz.ma.gov.br/resource/RFB/Situacao_Especial/00002342-1998_02_13,-1
+3.527749538421631,Sociedade,http://www.sefaz.ma.gov.br/resource/REDESIM/Sociedade/ASS_PLANEJAMENTO_-41563926-60685928390,-1
+1.809394359588623,Sociedade Cadastro SEFAZ,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Sociedade/ACIONISTA-62701440-47468173320,-1
+1.9821925163269043,Sociedade REDESIM,http://www.sefaz.ma.gov.br/resource/REDESIM/Sociedade/ASS_PLANEJAMENTO_-41563926-60685928390,-1
+3.570760488510132,Sociedade RFB,http://www.sefaz.ma.gov.br/resource/RFB/Sociedade_Estrangeiro/ADMINISTRADOR_RESIDENTE_OU_DOMICILIADO_NO_EXTERIOR-05401436-_-ERARDO_RATZENBECK,-1
+1.7695269584655762,Sociedade com Pessoa Física,http://www.sefaz.ma.gov.br/resource/REDESIM/Sociedade/ASS_PLANEJAMENTO_-41563926-60685928390,-1
+1.9081621170043945,Sociedade com Pessoa Jurídica,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Sociedade/ACIONISTA-21583860-11522323000161,-1
+1.819136619567871,Solicitação,http://www.sefaz.ma.gov.br/resource/REDESIM/Solicitacao/878,-1
+1.8653478622436523,Status da consistência,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Consistencia/12002364,-1
+3.7772011756896973,Status de Envio,http://www.sefaz.ma.gov.br/resource/REDESIM/Status_Envio/PENDENTE_ENVIO,-1
+1.8182728290557861,Status de similaridade,http://www.sefaz.ma.gov.br/resource/CADxNFE/Similaridade/12089020-7524689000100,-1
+3.643450975418091,Subclasse CNAE,http://www.sefaz.ma.gov.br/resource/DOMINIO/Atividade_Economica/2731700,-1
+1.9341342449188232,Suspensa,http://www.sefaz.ma.gov.br/resource/RFB/Situacao_Cadastral/Suspensa/SUSPENSA-91802041029139-2010_11_26,-1
+2.9943714141845703,Suspensa de Ofício,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Situacao_Cadastral/SUSPENSA_DE_OFICIO-21334836001174-2022_05_02,-1
+1.6970288753509521,Sócio,http://www.sefaz.ma.gov.br/resource/RFB/Pessoa/___000000__-AILTO_NECKEL_DE_SOUZA,-1
+1.9196736812591553,Sócio Cadastro SEFAZ,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Socio/00135032350,-1
+3.7904748916625977,Sócio REDESIM,http://www.sefaz.ma.gov.br/resource/REDESIM/Socio/10000-28037022315,-1
+4.114357233047485,Sócio RFB,http://www.sefaz.ma.gov.br/resource/RFB/Agente/_-AAG_CANADA_OPCO_ACQUISITION_CORP,-1
+1.8449711799621582,Tipo Ato,http://www.sefaz.ma.gov.br/resource/REDESIM/Tipo_Ato/INSCRICAO,-1
+4.346851348876953,Tipo de Contribuição,http://www.sefaz.ma.gov.br/resource/DOMINIO/Tipo_Contribuicao/NAO_CONTRIBUINTE_DO_ICMS,-1
+5.606737852096558,Tipo de Propriedade,http://www.sefaz.ma.gov.br/resource/REDESIM/Tipo_Propriedade/PROPRIO,-1
+5.026413440704346,Tipo de Regime Tributário,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Tipo_Regime_Tributario/SIMPLES_NACIONAL,-1
+3.0800020694732666,Tipo do Estabelecimento,http://www.sefaz.ma.gov.br/resource/DOMINIO/Tipo_Estabelecimento/FILIAL,-1
+6.465508460998535,Unidade Consumo,http://www.sefaz.ma.gov.br/resource/C115/Unidade_Consumo/000000000014,-1
+4.636684894561768,Unidade Consumo Comunicação,http://www.sefaz.ma.gov.br/resource/C115/Unidade_Consumo_Comunicacao/000000000014,-1
+2.077820301055908,Unidade Consumo Elétrica,http://www.sefaz.ma.gov.br/resource/C115/Unidade_Consumo_Eletrica/0000000001,-1
+4.736750602722168,Unidade Federativa | Estado,http://www.sefaz.ma.gov.br/resource/DOMINIO/Unidade_Federativa/MG,-1
+2.385749101638794,Unidade Fiscal,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Unidade_Fiscal/1,-1
+5.431751728057861,Usuário,http://www.sefaz.ma.gov.br/resource/Cadastro_SEFAZ-MA/Usuario/1088772,-1
+2.1168158054351807,Órgão,http://www.sefaz.ma.gov.br/resource/CEIS/Orgao/MINISTÉRIO%20DA%20AGRICULTURA%2C%20PECUÁRIA%20E%20ABASTECIMENTO,-1
+3.2902209758758545,Evento,http://www.sefaz.ma.gov.br/resource/REDESIM/Evento/691,-1
