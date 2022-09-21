@@ -3,9 +3,9 @@ import time
 import pandas as pd
 import datetime
 
-#ENDPOINT = "http://10.33.96.18:7200/repositories/GRAFO_SEFAZMA_PRODUCAO"
+ENDPOINT = "http://10.33.96.18:7200/repositories/GRAFO_SEFAZMA_PRODUCAO"
 
-ENDPOINT = "http://10.33.96.18:7200/repositories/GRAFO_REMOTO"
+#ENDPOINT = "http://10.33.96.18:7200/repositories/GRAFO_REMOTO"
 
 sparql = SPARQLWrapper(ENDPOINT)
 
